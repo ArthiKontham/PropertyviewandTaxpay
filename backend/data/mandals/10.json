@@ -1,0 +1,822 @@
+[
+  {
+    "id": 10001,
+    "name": "Bermo"
+  },
+  {
+    "id": 10002,
+    "name": "Chandankiyari"
+  },
+  {
+    "id": 10003,
+    "name": "Chas"
+  },
+  {
+    "id": 10004,
+    "name": "Gomia"
+  },
+  {
+    "id": 10005,
+    "name": "Jaridih"
+  },
+  {
+    "id": 10006,
+    "name": "Kasmar"
+  },
+  {
+    "id": 10007,
+    "name": "Nawadih"
+  },
+  {
+    "id": 10008,
+    "name": "Petarwar"
+  },
+  {
+    "id": 10009,
+    "name": "Chatra"
+  },
+  {
+    "id": 10010,
+    "name": "Giddhour"
+  },
+  {
+    "id": 10011,
+    "name": "Hunterganj"
+  },
+  {
+    "id": 10012,
+    "name": "Itkhori"
+  },
+  {
+    "id": 10013,
+    "name": "Kanha Chatti"
+  },
+  {
+    "id": 10014,
+    "name": "Kunda"
+  },
+  {
+    "id": 10015,
+    "name": "Lawalong"
+  },
+  {
+    "id": 10016,
+    "name": "Mayurhand"
+  },
+  {
+    "id": 10017,
+    "name": "Pathalgada"
+  },
+  {
+    "id": 10018,
+    "name": "Pratappur"
+  },
+  {
+    "id": 10019,
+    "name": "Simaria"
+  },
+  {
+    "id": 10020,
+    "name": "Tandwa"
+  },
+  {
+    "id": 10021,
+    "name": "Deoghar"
+  },
+  {
+    "id": 10022,
+    "name": "Devipur"
+  },
+  {
+    "id": 10023,
+    "name": "Karon"
+  },
+  {
+    "id": 10024,
+    "name": "Madhupur"
+  },
+  {
+    "id": 10025,
+    "name": "Mohanpur"
+  },
+  {
+    "id": 10026,
+    "name": "Palojori"
+  },
+  {
+    "id": 10027,
+    "name": "Sarath"
+  },
+  {
+    "id": 10028,
+    "name": "Sona Rai Thari"
+  },
+  {
+    "id": 10029,
+    "name": "Baliapur"
+  },
+  {
+    "id": 10030,
+    "name": "Baghmara"
+  },
+  {
+    "id": 10031,
+    "name": "Dhanbad"
+  },
+  {
+    "id": 10032,
+    "name": "Govindpur"
+  },
+  {
+    "id": 10033,
+    "name": "Jharia"
+  },
+  {
+    "id": 10034,
+    "name": "Topchanchi"
+  },
+  {
+    "id": 10035,
+    "name": "Tundi"
+  },
+  {
+    "id": 10036,
+    "name": "Dumka"
+  },
+  {
+    "id": 10037,
+    "name": "Gopikandar"
+  },
+  {
+    "id": 10038,
+    "name": "Jama"
+  },
+  {
+    "id": 10039,
+    "name": "Jarmundi"
+  },
+  {
+    "id": 10040,
+    "name": "Kathikund"
+  },
+  {
+    "id": 10041,
+    "name": "Masalia"
+  },
+  {
+    "id": 10042,
+    "name": "Ramgarh"
+  },
+  {
+    "id": 10043,
+    "name": "Baharagora"
+  },
+  {
+    "id": 10044,
+    "name": "Chakulia"
+  },
+  {
+    "id": 10045,
+    "name": "Dhalbhumgarh"
+  },
+  {
+    "id": 10046,
+    "name": "Dumaria"
+  },
+  {
+    "id": 10047,
+    "name": "Ghatshila"
+  },
+  {
+    "id": 10048,
+    "name": "Golmuri-cum-Jugsalai"
+  },
+  {
+    "id": 10049,
+    "name": "Musabani"
+  },
+  {
+    "id": 10050,
+    "name": "Patamda"
+  },
+  {
+    "id": 10051,
+    "name": "Potka"
+  },
+  {
+    "id": 10052,
+    "name": "Garhwa"
+  },
+  {
+    "id": 10053,
+    "name": "Bhandaria"
+  },
+  {
+    "id": 10054,
+    "name": "Bhawnathpur"
+  },
+  {
+    "id": 10055,
+    "name": "Bishunpura"
+  },
+  {
+    "id": 10056,
+    "name": "Chinia"
+  },
+  {
+    "id": 10057,
+    "name": "Dandai"
+  },
+  {
+    "id": 10058,
+    "name": "Dumri"
+  },
+  {
+    "id": 10059,
+    "name": "Kandi"
+  },
+  {
+    "id": 10060,
+    "name": "Majhiaon"
+  },
+  {
+    "id": 10061,
+    "name": "Meral"
+  },
+  {
+    "id": 10062,
+    "name": "Ramna"
+  },
+  {
+    "id": 10063,
+    "name": "Ranka"
+  },
+  {
+    "id": 10064,
+    "name": "Sagma"
+  },
+  {
+    "id": 10065,
+    "name": "Bagodar"
+  },
+  {
+    "id": 10066,
+    "name": "Bengabad"
+  },
+  {
+    "id": 10067,
+    "name": "Birni"
+  },
+  {
+    "id": 10068,
+    "name": "Deori"
+  },
+  {
+    "id": 10069,
+    "name": "Dhanwar"
+  },
+  {
+    "id": 10070,
+    "name": "Gande"
+  },
+  {
+    "id": 10071,
+    "name": "Giridih"
+  },
+  {
+    "id": 10072,
+    "name": "Jamua"
+  },
+  {
+    "id": 10073,
+    "name": "Pirtand"
+  },
+  {
+    "id": 10074,
+    "name": "Tisri"
+  },
+  {
+    "id": 10075,
+    "name": "Godda"
+  },
+  {
+    "id": 10076,
+    "name": "Boarijor"
+  },
+  {
+    "id": 10077,
+    "name": "Mahagama"
+  },
+  {
+    "id": 10078,
+    "name": "Meherma"
+  },
+  {
+    "id": 10079,
+    "name": "Pathargama"
+  },
+  {
+    "id": 10080,
+    "name": "Sundarpahari"
+  },
+  {
+    "id": 10081,
+    "name": "Thakurgangti"
+  },
+  {
+    "id": 10082,
+    "name": "Albert Ekka"
+  },
+  {
+    "id": 10083,
+    "name": "Basia"
+  },
+  {
+    "id": 10084,
+    "name": "Bishunpur"
+  },
+  {
+    "id": 10085,
+    "name": "Chainpur"
+  },
+  {
+    "id": 10086,
+    "name": "Ghaghra"
+  },
+  {
+    "id": 10087,
+    "name": "Gumla"
+  },
+  {
+    "id": 10088,
+    "name": "Kamdara"
+  },
+  {
+    "id": 10089,
+    "name": "Palkot"
+  },
+  {
+    "id": 10090,
+    "name": "Raidih"
+  },
+  {
+    "id": 10091,
+    "name": "Sisai"
+  },
+  {
+    "id": 10092,
+    "name": "Vishunpur"
+  },
+  {
+    "id": 10093,
+    "name": "Bagra"
+  },
+  {
+    "id": 10094,
+    "name": "Barkagaon"
+  },
+  {
+    "id": 10095,
+    "name": "Barhi"
+  },
+  {
+    "id": 10096,
+    "name": "Bishnugarh"
+  },
+  {
+    "id": 10097,
+    "name": "Chauparan"
+  },
+  {
+    "id": 10098,
+    "name": "Churchu"
+  },
+  {
+    "id": 10099,
+    "name": "Daru"
+  },
+  {
+    "id": 10100,
+    "name": "Ichak"
+  },
+  {
+    "id": 10101,
+    "name": "Katkamsandi"
+  },
+  {
+    "id": 10102,
+    "name": "Keredari"
+  },
+  {
+    "id": 10103,
+    "name": "Padma"
+  },
+  {
+    "id": 10104,
+    "name": "Tati Jhariya"
+  },
+  {
+    "id": 10105,
+    "name": "Jamtara"
+  },
+  {
+    "id": 10106,
+    "name": "Fatehpur"
+  },
+  {
+    "id": 10107,
+    "name": "Karmatanr"
+  },
+  {
+    "id": 10108,
+    "name": "Kundhit"
+  },
+  {
+    "id": 10109,
+    "name": "Nala"
+  },
+  {
+    "id": 10110,
+    "name": "Narayanpur"
+  },
+  {
+    "id": 10111,
+    "name": "Arki"
+  },
+  {
+    "id": 10112,
+    "name": "Erki"
+  },
+  {
+    "id": 10113,
+    "name": "Karrah"
+  },
+  {
+    "id": 10114,
+    "name": "Khunti"
+  },
+  {
+    "id": 10115,
+    "name": "Murhu"
+  },
+  {
+    "id": 10116,
+    "name": "Rania"
+  },
+  {
+    "id": 10117,
+    "name": "Torpa"
+  },
+  {
+    "id": 10118,
+    "name": "Domchanch"
+  },
+  {
+    "id": 10119,
+    "name": "Jainagar"
+  },
+  {
+    "id": 10120,
+    "name": "Koderma"
+  },
+  {
+    "id": 10121,
+    "name": "Markacho"
+  },
+  {
+    "id": 10122,
+    "name": "Satgawan"
+  },
+  {
+    "id": 10123,
+    "name": "Latehar"
+  },
+  {
+    "id": 10124,
+    "name": "Balumath"
+  },
+  {
+    "id": 10125,
+    "name": "Barwadih"
+  },
+  {
+    "id": 10126,
+    "name": "Chandwa"
+  },
+  {
+    "id": 10127,
+    "name": "Manika"
+  },
+  {
+    "id": 10128,
+    "name": "Mahuadanr"
+  },
+  {
+    "id": 10129,
+    "name": "Lohardaga"
+  },
+  {
+    "id": 10130,
+    "name": "Bhandra"
+  },
+  {
+    "id": 10131,
+    "name": "Kisko"
+  },
+  {
+    "id": 10132,
+    "name": "Kuru"
+  },
+  {
+    "id": 10133,
+    "name": "Senha"
+  },
+  {
+    "id": 10134,
+    "name": "Pakur"
+  },
+  {
+    "id": 10135,
+    "name": "Amrapara"
+  },
+  {
+    "id": 10136,
+    "name": "Hiranpur"
+  },
+  {
+    "id": 10137,
+    "name": "Litipara"
+  },
+  {
+    "id": 10138,
+    "name": "Maheshpur"
+  },
+  {
+    "id": 10139,
+    "name": "Pakuria"
+  },
+  {
+    "id": 10140,
+    "name": "Palamu"
+  },
+  {
+    "id": 10141,
+    "name": "Chhatarpur"
+  },
+  {
+    "id": 10142,
+    "name": "Hariharganj"
+  },
+  {
+    "id": 10143,
+    "name": "Hussainabad"
+  },
+  {
+    "id": 10144,
+    "name": "Lesliganj"
+  },
+  {
+    "id": 10145,
+    "name": "Manatu"
+  },
+  {
+    "id": 10146,
+    "name": "Medininagar"
+  },
+  {
+    "id": 10147,
+    "name": "Nilamber-Pitamberpur"
+  },
+  {
+    "id": 10148,
+    "name": "Panki"
+  },
+  {
+    "id": 10149,
+    "name": "Pandu"
+  },
+  {
+    "id": 10150,
+    "name": "Patan"
+  },
+  {
+    "id": 10151,
+    "name": "Satbarwa"
+  },
+  {
+    "id": 10152,
+    "name": "Tarhasi"
+  },
+  {
+    "id": 10153,
+    "name": "Chitarpur"
+  },
+  {
+    "id": 10154,
+    "name": "Dulmi"
+  },
+  {
+    "id": 10155,
+    "name": "Gola"
+  },
+  {
+    "id": 10156,
+    "name": "Mandu"
+  },
+  {
+    "id": 10157,
+    "name": "Patratu"
+  },
+  {
+    "id": 10158,
+    "name": "Ranchi"
+  },
+  {
+    "id": 10159,
+    "name": "Angara"
+  },
+  {
+    "id": 10160,
+    "name": "Bero"
+  },
+  {
+    "id": 10161,
+    "name": "Bundu"
+  },
+  {
+    "id": 10162,
+    "name": "Chanho"
+  },
+  {
+    "id": 10163,
+    "name": "Itki"
+  },
+  {
+    "id": 10164,
+    "name": "Kanke"
+  },
+  {
+    "id": 10165,
+    "name": "Lapung"
+  },
+  {
+    "id": 10166,
+    "name": "Mandar"
+  },
+  {
+    "id": 10167,
+    "name": "Nagri"
+  },
+  {
+    "id": 10168,
+    "name": "Namkum"
+  },
+  {
+    "id": 10169,
+    "name": "Ormanjhi"
+  },
+  {
+    "id": 10170,
+    "name": "Rahe"
+  },
+  {
+    "id": 10171,
+    "name": "Ratu"
+  },
+  {
+    "id": 10172,
+    "name": "Silli"
+  },
+  {
+    "id": 10173,
+    "name": "Sonahatu"
+  },
+  {
+    "id": 10174,
+    "name": "Tamar"
+  },
+  {
+    "id": 10175,
+    "name": "Sahebganj"
+  },
+  {
+    "id": 10176,
+    "name": "Barhait"
+  },
+  {
+    "id": 10177,
+    "name": "Borio"
+  },
+  {
+    "id": 10178,
+    "name": "Mandro"
+  },
+  {
+    "id": 10179,
+    "name": "Pathna"
+  },
+  {
+    "id": 10180,
+    "name": "Rajmahal"
+  },
+  {
+    "id": 10181,
+    "name": "Taljhari"
+  },
+  {
+    "id": 10182,
+    "name": "Udhwa"
+  },
+  {
+    "id": 10183,
+    "name": "Adityapur"
+  },
+  {
+    "id": 10184,
+    "name": "Chaibasa"
+  },
+  {
+    "id": 10185,
+    "name": "Chakradharpur"
+  },
+  {
+    "id": 10186,
+    "name": "Goelkera"
+  },
+  {
+    "id": 10187,
+    "name": "Gudri"
+  },
+  {
+    "id": 10188,
+    "name": "Hatgamharia"
+  },
+  {
+    "id": 10189,
+    "name": "Jagannathpur"
+  },
+  {
+    "id": 10190,
+    "name": "Jhinkpani"
+  },
+  {
+    "id": 10191,
+    "name": "Khuntpani"
+  },
+  {
+    "id": 10192,
+    "name": "Manjhari"
+  },
+  {
+    "id": 10193,
+    "name": "Manoharpur"
+  },
+  {
+    "id": 10194,
+    "name": "Noamundi"
+  },
+  {
+    "id": 10195,
+    "name": "Sonua"
+  },
+  {
+    "id": 10196,
+    "name": "Tantnagar"
+  },
+  {
+    "id": 10197,
+    "name": "Simdega"
+  },
+  {
+    "id": 10198,
+    "name": "Bano"
+  },
+  {
+    "id": 10199,
+    "name": "Bolba"
+  },
+  {
+    "id": 10200,
+    "name": "Jaldega"
+  },
+  {
+    "id": 10201,
+    "name": "Kolebira"
+  },
+  {
+    "id": 10202,
+    "name": "Kurdeg"
+  },
+  {
+    "id": 10203,
+    "name": "Pakartanr"
+  },
+  {
+    "id": 10204,
+    "name": "Thethaitangar"
+  },
+  {
+    "id": 10205,
+    "name": "Bandgaon"
+  }
+]

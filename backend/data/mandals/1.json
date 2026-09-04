@@ -1,0 +1,2718 @@
+[
+  {
+    "id": 1001,
+    "name": "Chintapalle mandal"
+  },
+  {
+    "id": 1002,
+    "name": "Chintur mandal"
+  },
+  {
+    "id": 1003,
+    "name": "Etapaka mandal"
+  },
+  {
+    "id": 1004,
+    "name": "Kunavaram mandal"
+  },
+  {
+    "id": 1005,
+    "name": "Vararamachandrapuram mandal"
+  },
+  {
+    "id": 1006,
+    "name": "Ananthagiri mandal"
+  },
+  {
+    "id": 1007,
+    "name": "Araku Valley mandal"
+  },
+  {
+    "id": 1008,
+    "name": "Dumbriguda mandal"
+  },
+  {
+    "id": 1009,
+    "name": "G. Madugula mandal"
+  },
+  {
+    "id": 1010,
+    "name": "Gudem Kotha Veedhi mandal"
+  },
+  {
+    "id": 1011,
+    "name": "Hukumpeta mandal"
+  },
+  {
+    "id": 1012,
+    "name": "Koyyuru mandal"
+  },
+  {
+    "id": 1013,
+    "name": "Paderu mandal"
+  },
+  {
+    "id": 1014,
+    "name": "Peda Bayalu mandal"
+  },
+  {
+    "id": 1015,
+    "name": "Addateegala mandal"
+  },
+  {
+    "id": 1016,
+    "name": "Devipatnam mandal"
+  },
+  {
+    "id": 1017,
+    "name": "Gangavaram mandal"
+  },
+  {
+    "id": 1018,
+    "name": "Maredumilli mandal"
+  },
+  {
+    "id": 1019,
+    "name": "Munchingi Puttu mandal"
+  },
+  {
+    "id": 1020,
+    "name": "Rajavommangi mandal"
+  },
+  {
+    "id": 1021,
+    "name": "Rampachodavaram mandal"
+  },
+  {
+    "id": 1022,
+    "name": "Y. Ramavaram mandal"
+  },
+  {
+    "id": 1023,
+    "name": "Anakapalle mandal"
+  },
+  {
+    "id": 1024,
+    "name": "Atchutapuram mandal"
+  },
+  {
+    "id": 1025,
+    "name": "Butchayyapeta mandal"
+  },
+  {
+    "id": 1026,
+    "name": "Chodavaram mandal"
+  },
+  {
+    "id": 1027,
+    "name": "Devarapalli mandal"
+  },
+  {
+    "id": 1028,
+    "name": "Elamanchili mandal"
+  },
+  {
+    "id": 1029,
+    "name": "K.Kotapadu mandal"
+  },
+  {
+    "id": 1030,
+    "name": "Kasimkota mandal"
+  },
+  {
+    "id": 1031,
+    "name": "Munagapaka mandal"
+  },
+  {
+    "id": 1032,
+    "name": "Paravada mandal"
+  },
+  {
+    "id": 1033,
+    "name": "Rambilli mandal"
+  },
+  {
+    "id": 1034,
+    "name": "Sabbavaram mandal"
+  },
+  {
+    "id": 1035,
+    "name": "Cheedikada mandal"
+  },
+  {
+    "id": 1036,
+    "name": "Golugonda mandal"
+  },
+  {
+    "id": 1037,
+    "name": "Kotauratla mandal"
+  },
+  {
+    "id": 1038,
+    "name": "Madugula mandal"
+  },
+  {
+    "id": 1039,
+    "name": "Makavarapalem mandal"
+  },
+  {
+    "id": 1040,
+    "name": "Nakkapalle mandal"
+  },
+  {
+    "id": 1041,
+    "name": "Narsipatnam mandal"
+  },
+  {
+    "id": 1042,
+    "name": "Nathavaram mandal"
+  },
+  {
+    "id": 1043,
+    "name": "Payakaraopeta Mandal"
+  },
+  {
+    "id": 1044,
+    "name": "Ravikamatham mandal"
+  },
+  {
+    "id": 1045,
+    "name": "Rolugunta mandal"
+  },
+  {
+    "id": 1046,
+    "name": "Sarvasiddhi Rayavaram mandal"
+  },
+  {
+    "id": 1047,
+    "name": "Anantapur mandal"
+  },
+  {
+    "id": 1048,
+    "name": "Atmakur mandal"
+  },
+  {
+    "id": 1049,
+    "name": "Bukkaraya Samudram mandal"
+  },
+  {
+    "id": 1050,
+    "name": "Garladinne mandal"
+  },
+  {
+    "id": 1051,
+    "name": "Kudair mandal"
+  },
+  {
+    "id": 1052,
+    "name": "Narpala mandal"
+  },
+  {
+    "id": 1053,
+    "name": "Peddapappur mandal"
+  },
+  {
+    "id": 1054,
+    "name": "Putlur mandal"
+  },
+  {
+    "id": 1055,
+    "name": "Raptadu mandal"
+  },
+  {
+    "id": 1056,
+    "name": "Singanamala mandal"
+  },
+  {
+    "id": 1057,
+    "name": "Tadipatri mandal"
+  },
+  {
+    "id": 1058,
+    "name": "Yellanur mandal"
+  },
+  {
+    "id": 1059,
+    "name": "Gooty mandal"
+  },
+  {
+    "id": 1060,
+    "name": "Guntakal mandal"
+  },
+  {
+    "id": 1061,
+    "name": "Pamidi mandal"
+  },
+  {
+    "id": 1062,
+    "name": "Peddavadugur mandal"
+  },
+  {
+    "id": 1063,
+    "name": "Uravakonda mandal"
+  },
+  {
+    "id": 1064,
+    "name": "Vajrakarur mandal"
+  },
+  {
+    "id": 1065,
+    "name": "Vidapanakal mandal"
+  },
+  {
+    "id": 1066,
+    "name": "Yadiki mandal"
+  },
+  {
+    "id": 1067,
+    "name": "Beluguppa mandal"
+  },
+  {
+    "id": 1068,
+    "name": "Bommanahal mandal"
+  },
+  {
+    "id": 1069,
+    "name": "Brahmasamudram mandal"
+  },
+  {
+    "id": 1070,
+    "name": "D.Hirehal mandal"
+  },
+  {
+    "id": 1071,
+    "name": "Gummagatta mandal"
+  },
+  {
+    "id": 1072,
+    "name": "Kalyandurg mandal"
+  },
+  {
+    "id": 1073,
+    "name": "Kambadur mandal"
+  },
+  {
+    "id": 1074,
+    "name": "Kanekal mandal"
+  },
+  {
+    "id": 1075,
+    "name": "Kundurpi mandal"
+  },
+  {
+    "id": 1076,
+    "name": "Rayadurg mandal"
+  },
+  {
+    "id": 1077,
+    "name": "Settur mandal"
+  },
+  {
+    "id": 1078,
+    "name": "B. Kothakota mandal"
+  },
+  {
+    "id": 1079,
+    "name": "Kalikiri mandal"
+  },
+  {
+    "id": 1080,
+    "name": "Kurabalakota mandal"
+  },
+  {
+    "id": 1081,
+    "name": "Madanapalle mandal"
+  },
+  {
+    "id": 1082,
+    "name": "Mulakalacheruvu mandal"
+  },
+  {
+    "id": 1083,
+    "name": "Nimmanapalle mandal"
+  },
+  {
+    "id": 1084,
+    "name": "Peddathippasamudram mandal"
+  },
+  {
+    "id": 1085,
+    "name": "Peddamandyam mandal"
+  },
+  {
+    "id": 1086,
+    "name": "Ramasamudram mandal"
+  },
+  {
+    "id": 1087,
+    "name": "Thamballapalle mandal"
+  },
+  {
+    "id": 1088,
+    "name": "Valmikipuram mandal"
+  },
+  {
+    "id": 1089,
+    "name": "Punganur mandal"
+  },
+  {
+    "id": 1090,
+    "name": "Sodam mandal"
+  },
+  {
+    "id": 1091,
+    "name": "Somala mandal"
+  },
+  {
+    "id": 1092,
+    "name": "Pulicherla mandal"
+  },
+  {
+    "id": 1093,
+    "name": "Rompicherla mandal"
+  },
+  {
+    "id": 1094,
+    "name": "Chowdepalle mandal"
+  },
+  {
+    "id": 1095,
+    "name": "Chitvel mandal"
+  },
+  {
+    "id": 1096,
+    "name": "Kodur mandal"
+  },
+  {
+    "id": 1097,
+    "name": "Nandalur mandal"
+  },
+  {
+    "id": 1098,
+    "name": "Obulavaripalle mandal"
+  },
+  {
+    "id": 1099,
+    "name": "Penagalur mandal"
+  },
+  {
+    "id": 1100,
+    "name": "Pullampeta mandal"
+  },
+  {
+    "id": 1101,
+    "name": "Rajampet mandal"
+  },
+  {
+    "id": 1102,
+    "name": "T. Sundupalle mandal"
+  },
+  {
+    "id": 1103,
+    "name": "Veeraballi mandal"
+  },
+  {
+    "id": 1104,
+    "name": "Chinnamandyam mandal"
+  },
+  {
+    "id": 1105,
+    "name": "Galiveedu mandal"
+  },
+  {
+    "id": 1106,
+    "name": "Gurramkonda mandal"
+  },
+  {
+    "id": 1107,
+    "name": "Kalakada mandal"
+  },
+  {
+    "id": 1108,
+    "name": "K. V. Palle mandal"
+  },
+  {
+    "id": 1109,
+    "name": "Lakkireddypalli mandal"
+  },
+  {
+    "id": 1110,
+    "name": "Pileru mandal"
+  },
+  {
+    "id": 1111,
+    "name": "Ramapuram mandal"
+  },
+  {
+    "id": 1112,
+    "name": "Rayachoti mandal"
+  },
+  {
+    "id": 1113,
+    "name": "Sambepalli mandal"
+  },
+  {
+    "id": 1114,
+    "name": "Bapatla mandal"
+  },
+  {
+    "id": 1115,
+    "name": "Karlapalem mandal"
+  },
+  {
+    "id": 1116,
+    "name": "Martur mandal"
+  },
+  {
+    "id": 1117,
+    "name": "Parchur mandal"
+  },
+  {
+    "id": 1118,
+    "name": "Pittalavanipalem mandal"
+  },
+  {
+    "id": 1119,
+    "name": "Yeddanapudi mandal"
+  },
+  {
+    "id": 1120,
+    "name": "Addanki mandal"
+  },
+  {
+    "id": 1121,
+    "name": "Ballikurava mandal"
+  },
+  {
+    "id": 1122,
+    "name": "Chinaganjam mandal"
+  },
+  {
+    "id": 1123,
+    "name": "Chirala mandal"
+  },
+  {
+    "id": 1124,
+    "name": "Inkollu mandal"
+  },
+  {
+    "id": 1125,
+    "name": "Janakavarampanguluru mandal"
+  },
+  {
+    "id": 1126,
+    "name": "Karamchedu mandal"
+  },
+  {
+    "id": 1127,
+    "name": "Korisapadu mandal"
+  },
+  {
+    "id": 1128,
+    "name": "Santhamaguluru mandal"
+  },
+  {
+    "id": 1129,
+    "name": "Vetapalem mandal"
+  },
+  {
+    "id": 1130,
+    "name": "Amruthalur mandal"
+  },
+  {
+    "id": 1131,
+    "name": "Bhattiprolu mandal"
+  },
+  {
+    "id": 1132,
+    "name": "Cherukupalle mandal"
+  },
+  {
+    "id": 1133,
+    "name": "Kolluru mandal"
+  },
+  {
+    "id": 1134,
+    "name": "Nagaram mandal"
+  },
+  {
+    "id": 1135,
+    "name": "Nizampatnam mandal"
+  },
+  {
+    "id": 1136,
+    "name": "Repalle mandal"
+  },
+  {
+    "id": 1137,
+    "name": "Tsundur mandal"
+  },
+  {
+    "id": 1138,
+    "name": "Vemuru mandal"
+  },
+  {
+    "id": 1139,
+    "name": "Chittoor mandal"
+  },
+  {
+    "id": 1140,
+    "name": "Gangadhara Nellore mandal"
+  },
+  {
+    "id": 1141,
+    "name": "Gudipala mandal"
+  },
+  {
+    "id": 1142,
+    "name": "Irala mandal"
+  },
+  {
+    "id": 1143,
+    "name": "Penumuru mandal"
+  },
+  {
+    "id": 1144,
+    "name": "Puthalapattu mandal"
+  },
+  {
+    "id": 1145,
+    "name": "Sri Rangaraja Puram mandal"
+  },
+  {
+    "id": 1146,
+    "name": "Thavanampalle mandal"
+  },
+  {
+    "id": 1147,
+    "name": "Vedurukuppam mandal"
+  },
+  {
+    "id": 1148,
+    "name": "Yadamarri mandal"
+  },
+  {
+    "id": 1149,
+    "name": "Kuppam mandal"
+  },
+  {
+    "id": 1150,
+    "name": "Ramakuppam mandal"
+  },
+  {
+    "id": 1151,
+    "name": "Santhipuram mandal"
+  },
+  {
+    "id": 1152,
+    "name": "Gudipalle mandal"
+  },
+  {
+    "id": 1153,
+    "name": "Nagari mandal"
+  },
+  {
+    "id": 1154,
+    "name": "Nindra mandal"
+  },
+  {
+    "id": 1155,
+    "name": "Palasamudram mandal"
+  },
+  {
+    "id": 1156,
+    "name": "Vijayapuram mandal"
+  },
+  {
+    "id": 1157,
+    "name": "Karvetinagar mandal"
+  },
+  {
+    "id": 1158,
+    "name": "Bangarupalem mandal"
+  },
+  {
+    "id": 1159,
+    "name": "Gangavaram mandal"
+  },
+  {
+    "id": 1160,
+    "name": "Palamaner mandal"
+  },
+  {
+    "id": 1161,
+    "name": "Peddapanjani mandal"
+  },
+  {
+    "id": 1162,
+    "name": "Venkatagirikota mandal"
+  },
+  {
+    "id": 1163,
+    "name": "Baireddipalle mandal"
+  },
+  {
+    "id": 1164,
+    "name": "Allavaram mandal"
+  },
+  {
+    "id": 1165,
+    "name": "Amalapuram mandal"
+  },
+  {
+    "id": 1166,
+    "name": "I. Polavaram mandal"
+  },
+  {
+    "id": 1167,
+    "name": "Katrenikona mandal"
+  },
+  {
+    "id": 1168,
+    "name": "Malikipuram mandal"
+  },
+  {
+    "id": 1169,
+    "name": "Mamidikuduru Mandal"
+  },
+  {
+    "id": 1170,
+    "name": "Mummidivaram mandal"
+  },
+  {
+    "id": 1171,
+    "name": "Razole mandal"
+  },
+  {
+    "id": 1172,
+    "name": "Sakhinetipalle mandal"
+  },
+  {
+    "id": 1173,
+    "name": "Uppalaguptam mandal"
+  },
+  {
+    "id": 1174,
+    "name": "Ainavilli mandal"
+  },
+  {
+    "id": 1175,
+    "name": "Alamuru mandal"
+  },
+  {
+    "id": 1176,
+    "name": "Ambajipeta mandal"
+  },
+  {
+    "id": 1177,
+    "name": "Atreyapuram mandal"
+  },
+  {
+    "id": 1178,
+    "name": "Kothapeta mandal"
+  },
+  {
+    "id": 1179,
+    "name": "P. Gannavaram mandal"
+  },
+  {
+    "id": 1180,
+    "name": "Ravulapalem mandal"
+  },
+  {
+    "id": 1181,
+    "name": "K. Gangavaram mandal"
+  },
+  {
+    "id": 1182,
+    "name": "Kapileswarapuram mandal"
+  },
+  {
+    "id": 1183,
+    "name": "Mandapeta mandal"
+  },
+  {
+    "id": 1184,
+    "name": "Ramachandrapuram mandal"
+  },
+  {
+    "id": 1185,
+    "name": "Rayavaram mandal"
+  },
+  {
+    "id": 1186,
+    "name": "Chagallu mandal"
+  },
+  {
+    "id": 1187,
+    "name": "Devarapalle mandal"
+  },
+  {
+    "id": 1188,
+    "name": "Gopalapuram mandal"
+  },
+  {
+    "id": 1189,
+    "name": "Kovvur mandal"
+  },
+  {
+    "id": 1190,
+    "name": "Nallajerla mandal"
+  },
+  {
+    "id": 1191,
+    "name": "Nidadavole mandal"
+  },
+  {
+    "id": 1192,
+    "name": "Peravali mandal"
+  },
+  {
+    "id": 1193,
+    "name": "Tallapudi mandal"
+  },
+  {
+    "id": 1194,
+    "name": "Undrajavaram mandal"
+  },
+  {
+    "id": 1195,
+    "name": "Anaparthi mandal"
+  },
+  {
+    "id": 1196,
+    "name": "Biccavolu mandal"
+  },
+  {
+    "id": 1197,
+    "name": "Gokavaram mandal"
+  },
+  {
+    "id": 1198,
+    "name": "Kadiam mandal"
+  },
+  {
+    "id": 1199,
+    "name": "Korukonda Mandal"
+  },
+  {
+    "id": 1200,
+    "name": "Rajahmundry Urban mandal"
+  },
+  {
+    "id": 1201,
+    "name": "Rajahmundry Rural mandal"
+  },
+  {
+    "id": 1202,
+    "name": "Rajanagaram mandal"
+  },
+  {
+    "id": 1203,
+    "name": "Rangampeta mandal"
+  },
+  {
+    "id": 1204,
+    "name": "Seethanagaram mandal"
+  },
+  {
+    "id": 1205,
+    "name": "Bhimadole mandal"
+  },
+  {
+    "id": 1206,
+    "name": "Denduluru mandal"
+  },
+  {
+    "id": 1207,
+    "name": "Eluru mandal"
+  },
+  {
+    "id": 1208,
+    "name": "Kaikalur mandal"
+  },
+  {
+    "id": 1209,
+    "name": "Kalidindi mandal"
+  },
+  {
+    "id": 1210,
+    "name": "Mandavalli mandal"
+  },
+  {
+    "id": 1211,
+    "name": "Mudinepalle mandal"
+  },
+  {
+    "id": 1212,
+    "name": "Nidamarru mandal"
+  },
+  {
+    "id": 1213,
+    "name": "Pedapadu mandal"
+  },
+  {
+    "id": 1214,
+    "name": "Pedavegi mandal"
+  },
+  {
+    "id": 1215,
+    "name": "Unguturu mandal"
+  },
+  {
+    "id": 1216,
+    "name": "Buttayagudem mandal"
+  },
+  {
+    "id": 1217,
+    "name": "Dwaraka Tirumala mandal"
+  },
+  {
+    "id": 1218,
+    "name": "Jangareddygudem mandal"
+  },
+  {
+    "id": 1219,
+    "name": "Jeelugu Milli mandal"
+  },
+  {
+    "id": 1220,
+    "name": "Kamavarapukota mandal"
+  },
+  {
+    "id": 1221,
+    "name": "Koyyalagudem mandal"
+  },
+  {
+    "id": 1222,
+    "name": "Kukunoor mandal"
+  },
+  {
+    "id": 1223,
+    "name": "Polavaram mandal"
+  },
+  {
+    "id": 1224,
+    "name": "T. Narasapuram mandal"
+  },
+  {
+    "id": 1225,
+    "name": "Velairpadu mandal"
+  },
+  {
+    "id": 1226,
+    "name": "Agiripalli mandal"
+  },
+  {
+    "id": 1227,
+    "name": "Chatrai mandal"
+  },
+  {
+    "id": 1228,
+    "name": "Chintalapudi mandal"
+  },
+  {
+    "id": 1229,
+    "name": "Lingapalem mandal"
+  },
+  {
+    "id": 1230,
+    "name": "Musunuru mandal"
+  },
+  {
+    "id": 1231,
+    "name": "Nuzvid mandal"
+  },
+  {
+    "id": 1232,
+    "name": "Guntur East mandal"
+  },
+  {
+    "id": 1233,
+    "name": "Guntur West mandal"
+  },
+  {
+    "id": 1234,
+    "name": "Medikonduru mandal"
+  },
+  {
+    "id": 1235,
+    "name": "Pedakakani mandal"
+  },
+  {
+    "id": 1236,
+    "name": "Pedanandipadu mandal"
+  },
+  {
+    "id": 1237,
+    "name": "Phirangipuram mandal"
+  },
+  {
+    "id": 1238,
+    "name": "Prathipadu mandal"
+  },
+  {
+    "id": 1239,
+    "name": "Tadikonda mandal"
+  },
+  {
+    "id": 1240,
+    "name": "Thullur mandal"
+  },
+  {
+    "id": 1241,
+    "name": "Vatticherukuru mandal"
+  },
+  {
+    "id": 1242,
+    "name": "Chebrolu mandal"
+  },
+  {
+    "id": 1243,
+    "name": "Duggirala mandal"
+  },
+  {
+    "id": 1244,
+    "name": "Kakumanu mandal"
+  },
+  {
+    "id": 1245,
+    "name": "Kollipara mandal"
+  },
+  {
+    "id": 1246,
+    "name": "Mangalagiri mandal"
+  },
+  {
+    "id": 1247,
+    "name": "Ponnur mandal"
+  },
+  {
+    "id": 1248,
+    "name": "Tadepalle mandal"
+  },
+  {
+    "id": 1249,
+    "name": "Tenali mandal"
+  },
+  {
+    "id": 1250,
+    "name": "Gollaprolu mandal"
+  },
+  {
+    "id": 1251,
+    "name": "Kajuluru mandal"
+  },
+  {
+    "id": 1252,
+    "name": "Kakinada Rural mandal"
+  },
+  {
+    "id": 1253,
+    "name": "Kakinada Urban mandal"
+  },
+  {
+    "id": 1254,
+    "name": "Karapa mandal"
+  },
+  {
+    "id": 1255,
+    "name": "Kothapalle mandal"
+  },
+  {
+    "id": 1256,
+    "name": "Pedapudi mandal"
+  },
+  {
+    "id": 1257,
+    "name": "Pithapuram mandal"
+  },
+  {
+    "id": 1258,
+    "name": "Samalkota mandal"
+  },
+  {
+    "id": 1259,
+    "name": "Thallarevu mandal"
+  },
+  {
+    "id": 1260,
+    "name": "Gandepalle mandal"
+  },
+  {
+    "id": 1261,
+    "name": "Jaggampeta mandal"
+  },
+  {
+    "id": 1262,
+    "name": "Kirlampudi mandal"
+  },
+  {
+    "id": 1263,
+    "name": "Kotananduru mandal"
+  },
+  {
+    "id": 1264,
+    "name": "Peddapuram mandal"
+  },
+  {
+    "id": 1265,
+    "name": "Prathipadu mandal"
+  },
+  {
+    "id": 1266,
+    "name": "Rowthulapudi mandal"
+  },
+  {
+    "id": 1267,
+    "name": "Sankhavaram mandal"
+  },
+  {
+    "id": 1268,
+    "name": "Thondangi mandal"
+  },
+  {
+    "id": 1269,
+    "name": "Tuni mandal"
+  },
+  {
+    "id": 1270,
+    "name": "Yeleswaram mandal"
+  },
+  {
+    "id": 1271,
+    "name": "Bapulapadu mandal"
+  },
+  {
+    "id": 1272,
+    "name": "Gannavaram mandal"
+  },
+  {
+    "id": 1273,
+    "name": "Gudivada mandal"
+  },
+  {
+    "id": 1274,
+    "name": "Gudlavalleru mandal"
+  },
+  {
+    "id": 1275,
+    "name": "Nandivada mandal"
+  },
+  {
+    "id": 1276,
+    "name": "Pedaparupudi mandal"
+  },
+  {
+    "id": 1277,
+    "name": "Unguturu mandal"
+  },
+  {
+    "id": 1278,
+    "name": "Avanigadda mandal"
+  },
+  {
+    "id": 1279,
+    "name": "Bantumilli mandal"
+  },
+  {
+    "id": 1280,
+    "name": "Challapalli mandal"
+  },
+  {
+    "id": 1281,
+    "name": "Ghantasala mandal"
+  },
+  {
+    "id": 1282,
+    "name": "Guduru mandal"
+  },
+  {
+    "id": 1283,
+    "name": "Koduru mandal"
+  },
+  {
+    "id": 1284,
+    "name": "Kruthivennu mandal"
+  },
+  {
+    "id": 1285,
+    "name": "Machilipatnam mandal"
+  },
+  {
+    "id": 1286,
+    "name": "Mopidevi mandal"
+  },
+  {
+    "id": 1287,
+    "name": "Nagayalanka mandal"
+  },
+  {
+    "id": 1288,
+    "name": "Pedana mandal"
+  },
+  {
+    "id": 1289,
+    "name": "Kankipadu mandal"
+  },
+  {
+    "id": 1290,
+    "name": "Movva mandal"
+  },
+  {
+    "id": 1291,
+    "name": "Pamarru mandal"
+  },
+  {
+    "id": 1292,
+    "name": "Pamidimukkala mandal"
+  },
+  {
+    "id": 1293,
+    "name": "Penamaluru mandal"
+  },
+  {
+    "id": 1294,
+    "name": "Thotlavalluru mandal"
+  },
+  {
+    "id": 1295,
+    "name": "Vuyyuru mandal"
+  },
+  {
+    "id": 1296,
+    "name": "Adoni mandal"
+  },
+  {
+    "id": 1297,
+    "name": "Gonegandla mandal"
+  },
+  {
+    "id": 1298,
+    "name": "Holagunda mandal"
+  },
+  {
+    "id": 1299,
+    "name": "Kosigi mandal"
+  },
+  {
+    "id": 1300,
+    "name": "Kowthalam mandal"
+  },
+  {
+    "id": 1301,
+    "name": "Mantralayam mandal"
+  },
+  {
+    "id": 1302,
+    "name": "Nandavaram mandal"
+  },
+  {
+    "id": 1303,
+    "name": "Pedda Kadubur mandal"
+  },
+  {
+    "id": 1304,
+    "name": "Yemmiganur mandal"
+  },
+  {
+    "id": 1305,
+    "name": "C.Belagal mandal"
+  },
+  {
+    "id": 1306,
+    "name": "Gudur mandal"
+  },
+  {
+    "id": 1307,
+    "name": "Kallur mandal"
+  },
+  {
+    "id": 1308,
+    "name": "Kodumur mandal"
+  },
+  {
+    "id": 1309,
+    "name": "Kurnool Urban mandal"
+  },
+  {
+    "id": 1310,
+    "name": "Kurnool Rural mandal"
+  },
+  {
+    "id": 1311,
+    "name": "Orvakal mandal"
+  },
+  {
+    "id": 1312,
+    "name": "Veldurthi mandal"
+  },
+  {
+    "id": 1313,
+    "name": "Alur mandal"
+  },
+  {
+    "id": 1314,
+    "name": "Aspari mandal"
+  },
+  {
+    "id": 1315,
+    "name": "Chippagiri mandal"
+  },
+  {
+    "id": 1316,
+    "name": "Devanakonda mandal"
+  },
+  {
+    "id": 1317,
+    "name": "Halaharvi mandal"
+  },
+  {
+    "id": 1318,
+    "name": "Krishnagiri mandal"
+  },
+  {
+    "id": 1319,
+    "name": "Maddikera East mandal"
+  },
+  {
+    "id": 1320,
+    "name": "Pattikonda mandal"
+  },
+  {
+    "id": 1321,
+    "name": "Tuggali mandal"
+  },
+  {
+    "id": 1322,
+    "name": "Atmakur mandal"
+  },
+  {
+    "id": 1323,
+    "name": "Bandi Atmakur mandal"
+  },
+  {
+    "id": 1324,
+    "name": "Jupadu Bungalow mandal"
+  },
+  {
+    "id": 1325,
+    "name": "Kothapalle mandal"
+  },
+  {
+    "id": 1326,
+    "name": "Midthuru mandal"
+  },
+  {
+    "id": 1327,
+    "name": "Nandikotkur mandal"
+  },
+  {
+    "id": 1328,
+    "name": "Pagidyala mandal"
+  },
+  {
+    "id": 1329,
+    "name": "Pamulapadu mandal"
+  },
+  {
+    "id": 1330,
+    "name": "Srisailam mandal"
+  },
+  {
+    "id": 1331,
+    "name": "Velgodu mandal"
+  },
+  {
+    "id": 1332,
+    "name": "Banaganapalle mandal"
+  },
+  {
+    "id": 1333,
+    "name": "Bethamcherla mandal"
+  },
+  {
+    "id": 1334,
+    "name": "Dhone mandal"
+  },
+  {
+    "id": 1335,
+    "name": "Koilkuntla mandal"
+  },
+  {
+    "id": 1336,
+    "name": "Owk mandal"
+  },
+  {
+    "id": 1337,
+    "name": "Peapally mandal"
+  },
+  {
+    "id": 1338,
+    "name": "Allagadda mandal"
+  },
+  {
+    "id": 1339,
+    "name": "Chagalamarri mandal"
+  },
+  {
+    "id": 1340,
+    "name": "Dornipadu mandal"
+  },
+  {
+    "id": 1341,
+    "name": "Gadivemula mandal"
+  },
+  {
+    "id": 1342,
+    "name": "Gospadu mandal"
+  },
+  {
+    "id": 1343,
+    "name": "Kolimigundla mandal"
+  },
+  {
+    "id": 1344,
+    "name": "Mahanandi mandal"
+  },
+  {
+    "id": 1345,
+    "name": "Nandyal Rural mandal"
+  },
+  {
+    "id": 1346,
+    "name": "Nandyal Urban mandal"
+  },
+  {
+    "id": 1347,
+    "name": "Panyam mandal"
+  },
+  {
+    "id": 1348,
+    "name": "Rudravaram mandal"
+  },
+  {
+    "id": 1349,
+    "name": "Sanjamala mandal"
+  },
+  {
+    "id": 1350,
+    "name": "Sirivella mandal"
+  },
+  {
+    "id": 1351,
+    "name": "Uyyalawada mandal"
+  },
+  {
+    "id": 1352,
+    "name": "Chandarlapadu mandal"
+  },
+  {
+    "id": 1353,
+    "name": "Jaggayyapeta mandal"
+  },
+  {
+    "id": 1354,
+    "name": "Kanchikacherla mandal"
+  },
+  {
+    "id": 1355,
+    "name": "Nandigama mandal"
+  },
+  {
+    "id": 1356,
+    "name": "Penuganchiprolu mandal"
+  },
+  {
+    "id": 1357,
+    "name": "Vatsavai mandal"
+  },
+  {
+    "id": 1358,
+    "name": "Veerullapadu mandal"
+  },
+  {
+    "id": 1359,
+    "name": "A. Konduru mandal"
+  },
+  {
+    "id": 1360,
+    "name": "Gampalagudem mandal"
+  },
+  {
+    "id": 1361,
+    "name": "Reddigudem mandal"
+  },
+  {
+    "id": 1362,
+    "name": "Tiruvuru mandal"
+  },
+  {
+    "id": 1363,
+    "name": "Vissannapeta mandal"
+  },
+  {
+    "id": 1364,
+    "name": "G.Konduru mandal"
+  },
+  {
+    "id": 1365,
+    "name": "Ibrahimpatnam mandal"
+  },
+  {
+    "id": 1366,
+    "name": "Mylavaram mandal"
+  },
+  {
+    "id": 1367,
+    "name": "Vijayawada Rural mandal"
+  },
+  {
+    "id": 1368,
+    "name": "Vijayawada North mandal"
+  },
+  {
+    "id": 1369,
+    "name": "Vijayawada Central mandal"
+  },
+  {
+    "id": 1370,
+    "name": "Vijayawada East mandal"
+  },
+  {
+    "id": 1371,
+    "name": "Vijayawada West mandal"
+  },
+  {
+    "id": 1372,
+    "name": "Dachepalle mandal"
+  },
+  {
+    "id": 1373,
+    "name": "Durgi mandal"
+  },
+  {
+    "id": 1374,
+    "name": "Gurazala mandal"
+  },
+  {
+    "id": 1375,
+    "name": "Karempudi mandal"
+  },
+  {
+    "id": 1376,
+    "name": "Macherla mandal"
+  },
+  {
+    "id": 1377,
+    "name": "Machavaram mandal"
+  },
+  {
+    "id": 1378,
+    "name": "Piduguralla mandal"
+  },
+  {
+    "id": 1379,
+    "name": "Rentachintala mandal"
+  },
+  {
+    "id": 1380,
+    "name": "Veldurthi mandal"
+  },
+  {
+    "id": 1381,
+    "name": "Bollapalle mandal"
+  },
+  {
+    "id": 1382,
+    "name": "Chilakaluripet mandal"
+  },
+  {
+    "id": 1383,
+    "name": "Edlapadu mandal"
+  },
+  {
+    "id": 1384,
+    "name": "Ipuru mandal"
+  },
+  {
+    "id": 1385,
+    "name": "Nadendla mandal"
+  },
+  {
+    "id": 1386,
+    "name": "Narasaraopet mandal"
+  },
+  {
+    "id": 1387,
+    "name": "Nuzendla mandal"
+  },
+  {
+    "id": 1388,
+    "name": "Rompicherla mandal"
+  },
+  {
+    "id": 1389,
+    "name": "Savalyapuram mandal"
+  },
+  {
+    "id": 1390,
+    "name": "Vinukonda mandal"
+  },
+  {
+    "id": 1391,
+    "name": "Amaravathi mandal"
+  },
+  {
+    "id": 1392,
+    "name": "Atchampet mandal"
+  },
+  {
+    "id": 1393,
+    "name": "Bellamkonda mandal"
+  },
+  {
+    "id": 1394,
+    "name": "Krosuru mandal"
+  },
+  {
+    "id": 1395,
+    "name": "Muppalla mandal"
+  },
+  {
+    "id": 1396,
+    "name": "Nekarikallu mandal"
+  },
+  {
+    "id": 1397,
+    "name": "Pedakurapadu mandal"
+  },
+  {
+    "id": 1398,
+    "name": "Rajupalem mandal"
+  },
+  {
+    "id": 1399,
+    "name": "Sattenapalle mandal"
+  },
+  {
+    "id": 1400,
+    "name": "Bhamini mandal"
+  },
+  {
+    "id": 1401,
+    "name": "Gummalakshmipuram mandal"
+  },
+  {
+    "id": 1402,
+    "name": "Jiyyammavalasa mandal"
+  },
+  {
+    "id": 1403,
+    "name": "Kurupam mandal"
+  },
+  {
+    "id": 1404,
+    "name": "Palakonda mandal"
+  },
+  {
+    "id": 1405,
+    "name": "Seethampeta mandal"
+  },
+  {
+    "id": 1406,
+    "name": "Veeraghattam mandal"
+  },
+  {
+    "id": 1407,
+    "name": "Balijipeta mandal"
+  },
+  {
+    "id": 1408,
+    "name": "Garugubilli mandal"
+  },
+  {
+    "id": 1409,
+    "name": "Komarada mandal"
+  },
+  {
+    "id": 1410,
+    "name": "Makkuva mandal"
+  },
+  {
+    "id": 1411,
+    "name": "Pachipenta mandal"
+  },
+  {
+    "id": 1412,
+    "name": "Parvathipuram mandal"
+  },
+  {
+    "id": 1413,
+    "name": "Salur mandal"
+  },
+  {
+    "id": 1414,
+    "name": "Seethanagaram mandal"
+  },
+  {
+    "id": 1415,
+    "name": "Chandra Sekhara Puram mandal"
+  },
+  {
+    "id": 1416,
+    "name": "Darsi mandal"
+  },
+  {
+    "id": 1417,
+    "name": "Donakonda mandal"
+  },
+  {
+    "id": 1418,
+    "name": "Hanumanthuni Padu mandal"
+  },
+  {
+    "id": 1419,
+    "name": "Kanigiri mandal"
+  },
+  {
+    "id": 1420,
+    "name": "Konakanamitla mandal"
+  },
+  {
+    "id": 1421,
+    "name": "Kurichedu mandal"
+  },
+  {
+    "id": 1422,
+    "name": "Marripudi mandal"
+  },
+  {
+    "id": 1423,
+    "name": "Pamuru mandal"
+  },
+  {
+    "id": 1424,
+    "name": "Pedacherlo Palle mandal"
+  },
+  {
+    "id": 1425,
+    "name": "Podili mandal"
+  },
+  {
+    "id": 1426,
+    "name": "Ponnaluru mandal"
+  },
+  {
+    "id": 1427,
+    "name": "Veligandla mandal"
+  },
+  {
+    "id": 1428,
+    "name": "Ardhaveedu mandal"
+  },
+  {
+    "id": 1429,
+    "name": "Bestawaripeta mandal"
+  },
+  {
+    "id": 1430,
+    "name": "Cumbum mandal"
+  },
+  {
+    "id": 1431,
+    "name": "Dornala mandal"
+  },
+  {
+    "id": 1432,
+    "name": "Giddalur mandal"
+  },
+  {
+    "id": 1433,
+    "name": "Komarolu mandal"
+  },
+  {
+    "id": 1434,
+    "name": "Markapuram mandal"
+  },
+  {
+    "id": 1435,
+    "name": "Peda Araveedu mandal"
+  },
+  {
+    "id": 1436,
+    "name": "Pullalacheruvu mandal"
+  },
+  {
+    "id": 1437,
+    "name": "Racherla mandal"
+  },
+  {
+    "id": 1438,
+    "name": "Tarlupadu mandal"
+  },
+  {
+    "id": 1439,
+    "name": "Tripuranthakam mandal"
+  },
+  {
+    "id": 1440,
+    "name": "Yerragondapalem mandal"
+  },
+  {
+    "id": 1441,
+    "name": "Chimakurthi mandal"
+  },
+  {
+    "id": 1442,
+    "name": "Kondapi mandal"
+  },
+  {
+    "id": 1443,
+    "name": "Kotha Patnam mandal"
+  },
+  {
+    "id": 1444,
+    "name": "Maddipadu mandal"
+  },
+  {
+    "id": 1445,
+    "name": "Mundlamuru mandal"
+  },
+  {
+    "id": 1446,
+    "name": "Naguluppalapadu mandal"
+  },
+  {
+    "id": 1447,
+    "name": "Ongole mandal"
+  },
+  {
+    "id": 1448,
+    "name": "Santhanuthala Padu mandal"
+  },
+  {
+    "id": 1449,
+    "name": "Singarayakonda mandal"
+  },
+  {
+    "id": 1450,
+    "name": "Tangutur mandal"
+  },
+  {
+    "id": 1451,
+    "name": "Thallur mandal"
+  },
+  {
+    "id": 1452,
+    "name": "Zarugumilli mandal"
+  },
+  {
+    "id": 1453,
+    "name": "Ananthasagaram mandal"
+  },
+  {
+    "id": 1454,
+    "name": "Anumasamudrampeta mandal"
+  },
+  {
+    "id": 1455,
+    "name": "Atmakur mandal"
+  },
+  {
+    "id": 1456,
+    "name": "Chejerla mandal"
+  },
+  {
+    "id": 1457,
+    "name": "Kaluvoya mandal"
+  },
+  {
+    "id": 1458,
+    "name": "Marripadu mandal"
+  },
+  {
+    "id": 1459,
+    "name": "Sangam mandal"
+  },
+  {
+    "id": 1460,
+    "name": "Sitarampuramu mandal"
+  },
+  {
+    "id": 1461,
+    "name": "Udayagiri mandal"
+  },
+  {
+    "id": 1462,
+    "name": "Gudluru mandal"
+  },
+  {
+    "id": 1463,
+    "name": "Kandukur mandal"
+  },
+  {
+    "id": 1464,
+    "name": "Kondapuram mandal"
+  },
+  {
+    "id": 1465,
+    "name": "Lingasamudram mandal"
+  },
+  {
+    "id": 1466,
+    "name": "Ulavapadu mandal"
+  },
+  {
+    "id": 1467,
+    "name": "Varikuntapadu mandal"
+  },
+  {
+    "id": 1468,
+    "name": "Voletivaripalem mandal"
+  },
+  {
+    "id": 1469,
+    "name": "Allur mandal"
+  },
+  {
+    "id": 1470,
+    "name": "Bogolu mandal"
+  },
+  {
+    "id": 1471,
+    "name": "Dagadarthi mandal"
+  },
+  {
+    "id": 1472,
+    "name": "Duttaluru mandal"
+  },
+  {
+    "id": 1473,
+    "name": "Jaladanki mandal"
+  },
+  {
+    "id": 1474,
+    "name": "Kaligiri mandal"
+  },
+  {
+    "id": 1475,
+    "name": "Kavali mandal"
+  },
+  {
+    "id": 1476,
+    "name": "Kodavaluru mandal"
+  },
+  {
+    "id": 1477,
+    "name": "Vidavaluru mandal"
+  },
+  {
+    "id": 1478,
+    "name": "Vinjamuru mandal"
+  },
+  {
+    "id": 1479,
+    "name": "Buchireddypalem mandal"
+  },
+  {
+    "id": 1480,
+    "name": "Indukurpet mandal"
+  },
+  {
+    "id": 1481,
+    "name": "Kovur mandal"
+  },
+  {
+    "id": 1482,
+    "name": "Manubolu mandal"
+  },
+  {
+    "id": 1483,
+    "name": "Muttukuru mandal"
+  },
+  {
+    "id": 1484,
+    "name": "Nellore Urban mandal"
+  },
+  {
+    "id": 1485,
+    "name": "Nellore Rural mandal"
+  },
+  {
+    "id": 1486,
+    "name": "Podalakuru mandal"
+  },
+  {
+    "id": 1487,
+    "name": "Rapuru mandal"
+  },
+  {
+    "id": 1488,
+    "name": "Saidapuramu mandal"
+  },
+  {
+    "id": 1489,
+    "name": "Thotapalligudur mandal"
+  },
+  {
+    "id": 1490,
+    "name": "Venkatachalam mandal"
+  },
+  {
+    "id": 1491,
+    "name": "Bathalapalle mandal"
+  },
+  {
+    "id": 1492,
+    "name": "Chennekothapalle mandal"
+  },
+  {
+    "id": 1493,
+    "name": "Dharmavaram mandal"
+  },
+  {
+    "id": 1494,
+    "name": "Kanaganapalle mandal"
+  },
+  {
+    "id": 1495,
+    "name": "Mudigubba mandal"
+  },
+  {
+    "id": 1496,
+    "name": "Ramagiri mandal"
+  },
+  {
+    "id": 1497,
+    "name": "Tadimarri mandal"
+  },
+  {
+    "id": 1498,
+    "name": "Amadagur mandal"
+  },
+  {
+    "id": 1499,
+    "name": "Gandlapenta mandal"
+  },
+  {
+    "id": 1500,
+    "name": "Kadiri mandal"
+  },
+  {
+    "id": 1501,
+    "name": "Lepakshi mandal"
+  },
+  {
+    "id": 1502,
+    "name": "Nallacheruvu mandal"
+  },
+  {
+    "id": 1503,
+    "name": "Nambulapulakunta mandal"
+  },
+  {
+    "id": 1504,
+    "name": "Tanakal mandal"
+  },
+  {
+    "id": 1505,
+    "name": "Agali mandal"
+  },
+  {
+    "id": 1506,
+    "name": "Amarapuram mandal"
+  },
+  {
+    "id": 1507,
+    "name": "Chilamathur mandal"
+  },
+  {
+    "id": 1508,
+    "name": "Gudibanda mandal"
+  },
+  {
+    "id": 1509,
+    "name": "Hindupur mandal"
+  },
+  {
+    "id": 1510,
+    "name": "Madakasira mandal"
+  },
+  {
+    "id": 1511,
+    "name": "Parigi mandal"
+  },
+  {
+    "id": 1512,
+    "name": "Penukonda mandal"
+  },
+  {
+    "id": 1513,
+    "name": "Roddam mandal"
+  },
+  {
+    "id": 1514,
+    "name": "Rolla mandal"
+  },
+  {
+    "id": 1515,
+    "name": "Somandepalle mandal"
+  },
+  {
+    "id": 1516,
+    "name": "Talupula mandal"
+  },
+  {
+    "id": 1517,
+    "name": "Bukkapatnam mandal"
+  },
+  {
+    "id": 1518,
+    "name": "Gorantla mandal"
+  },
+  {
+    "id": 1519,
+    "name": "Kothacheruvu mandal"
+  },
+  {
+    "id": 1520,
+    "name": "Nallamada mandal"
+  },
+  {
+    "id": 1521,
+    "name": "Obuladevaracheruvu mandal"
+  },
+  {
+    "id": 1522,
+    "name": "Puttaparthi mandal"
+  },
+  {
+    "id": 1523,
+    "name": "Ichchapuram mandal"
+  },
+  {
+    "id": 1524,
+    "name": "Kanchili mandal"
+  },
+  {
+    "id": 1525,
+    "name": "Kaviti mandal"
+  },
+  {
+    "id": 1526,
+    "name": "Mandasa mandal"
+  },
+  {
+    "id": 1527,
+    "name": "Nandigam mandal"
+  },
+  {
+    "id": 1528,
+    "name": "Palasa Mandal"
+  },
+  {
+    "id": 1529,
+    "name": "Sompeta mandal"
+  },
+  {
+    "id": 1530,
+    "name": "Vajrapukothuru mandal"
+  },
+  {
+    "id": 1531,
+    "name": "Amadalavalasa mandal"
+  },
+  {
+    "id": 1532,
+    "name": "Burja mandal"
+  },
+  {
+    "id": 1533,
+    "name": "Etcherla mandal"
+  },
+  {
+    "id": 1534,
+    "name": "Ganguvarisigadam mandal"
+  },
+  {
+    "id": 1535,
+    "name": "Gara mandal"
+  },
+  {
+    "id": 1536,
+    "name": "Jalumuru mandal"
+  },
+  {
+    "id": 1537,
+    "name": "Laveru mandal"
+  },
+  {
+    "id": 1538,
+    "name": "Narasannapeta mandal"
+  },
+  {
+    "id": 1539,
+    "name": "Polaki mandal"
+  },
+  {
+    "id": 1540,
+    "name": "Ponduru mandal"
+  },
+  {
+    "id": 1541,
+    "name": "Ranastalam mandal"
+  },
+  {
+    "id": 1542,
+    "name": "Sarubujjili mandal"
+  },
+  {
+    "id": 1543,
+    "name": "Srikakulam mandal"
+  },
+  {
+    "id": 1544,
+    "name": "Hiramandalam mandal"
+  },
+  {
+    "id": 1545,
+    "name": "Kotabommali mandal"
+  },
+  {
+    "id": 1546,
+    "name": "Kothuru mandal"
+  },
+  {
+    "id": 1547,
+    "name": "Lakshminarsupeta mandal"
+  },
+  {
+    "id": 1548,
+    "name": "Meliaputti mandal"
+  },
+  {
+    "id": 1549,
+    "name": "Pathapatnam mandal"
+  },
+  {
+    "id": 1550,
+    "name": "Santhabommali mandal"
+  },
+  {
+    "id": 1551,
+    "name": "Saravakota mandal"
+  },
+  {
+    "id": 1552,
+    "name": "Tekkali mandal"
+  },
+  {
+    "id": 1553,
+    "name": "Balayapalli mandal"
+  },
+  {
+    "id": 1554,
+    "name": "Chillakur mandal"
+  },
+  {
+    "id": 1555,
+    "name": "Chittamur mandal"
+  },
+  {
+    "id": 1556,
+    "name": "Dakkili mandal"
+  },
+  {
+    "id": 1557,
+    "name": "Gudur mandal"
+  },
+  {
+    "id": 1558,
+    "name": "Kota mandal"
+  },
+  {
+    "id": 1559,
+    "name": "Vakadu mandal"
+  },
+  {
+    "id": 1560,
+    "name": "Venkatagiri mandal"
+  },
+  {
+    "id": 1561,
+    "name": "K. V. B. Puram mandal"
+  },
+  {
+    "id": 1562,
+    "name": "Nagalapuram mandal"
+  },
+  {
+    "id": 1563,
+    "name": "Narayanavanam mandal"
+  },
+  {
+    "id": 1564,
+    "name": "Pichatur mandal"
+  },
+  {
+    "id": 1565,
+    "name": "Renigunta mandal"
+  },
+  {
+    "id": 1566,
+    "name": "Srikalahasti mandal"
+  },
+  {
+    "id": 1567,
+    "name": "Thottambedu mandal"
+  },
+  {
+    "id": 1568,
+    "name": "Yerpedu mandal"
+  },
+  {
+    "id": 1569,
+    "name": "Buchinaidu Kandriga mandal"
+  },
+  {
+    "id": 1570,
+    "name": "Doravarisatram mandal"
+  },
+  {
+    "id": 1571,
+    "name": "Naidupeta mandal"
+  },
+  {
+    "id": 1572,
+    "name": "Ojili mandal"
+  },
+  {
+    "id": 1573,
+    "name": "Pellakuru mandal"
+  },
+  {
+    "id": 1574,
+    "name": "Satyavedu mandal"
+  },
+  {
+    "id": 1575,
+    "name": "Sullurpeta mandal"
+  },
+  {
+    "id": 1576,
+    "name": "Tada mandal"
+  },
+  {
+    "id": 1577,
+    "name": "Varadaiahpalem mandal"
+  },
+  {
+    "id": 1578,
+    "name": "Chandragiri mandal"
+  },
+  {
+    "id": 1579,
+    "name": "Chinnagottigallu mandal"
+  },
+  {
+    "id": 1580,
+    "name": "Pakala mandal"
+  },
+  {
+    "id": 1581,
+    "name": "Puttur mandal"
+  },
+  {
+    "id": 1582,
+    "name": "Ramachandrapuram mandal"
+  },
+  {
+    "id": 1583,
+    "name": "Tirupati Rural mandal"
+  },
+  {
+    "id": 1584,
+    "name": "Tirupati Urban mandal"
+  },
+  {
+    "id": 1585,
+    "name": "Vadamalapeta mandal"
+  },
+  {
+    "id": 1586,
+    "name": "Yerravaripalem mandal"
+  },
+  {
+    "id": 1587,
+    "name": "Anandapuram mandal"
+  },
+  {
+    "id": 1588,
+    "name": "Bheemunipatnam mandal"
+  },
+  {
+    "id": 1589,
+    "name": "Padmanabham mandal"
+  },
+  {
+    "id": 1590,
+    "name": "Seethammadhara mandal"
+  },
+  {
+    "id": 1591,
+    "name": "Visakhapatnam Rural mandal"
+  },
+  {
+    "id": 1592,
+    "name": "Gajuwaka mandal"
+  },
+  {
+    "id": 1593,
+    "name": "Gopalapatnam mandal"
+  },
+  {
+    "id": 1594,
+    "name": "Maharanipeta mandal"
+  },
+  {
+    "id": 1595,
+    "name": "Mulagada mandal"
+  },
+  {
+    "id": 1596,
+    "name": "Pedagantyada mandal"
+  },
+  {
+    "id": 1597,
+    "name": "Pendurthi mandal"
+  },
+  {
+    "id": 1598,
+    "name": "Badangi mandal"
+  },
+  {
+    "id": 1599,
+    "name": "Bobbili mandal"
+  },
+  {
+    "id": 1600,
+    "name": "Dattirajeru mandal"
+  },
+  {
+    "id": 1601,
+    "name": "Gajapathinagaram mandal"
+  },
+  {
+    "id": 1602,
+    "name": "Mentada mandal"
+  },
+  {
+    "id": 1603,
+    "name": "Ramabhadrapuram mandal"
+  },
+  {
+    "id": 1604,
+    "name": "Therlam mandal"
+  },
+  {
+    "id": 1605,
+    "name": "Cheepurupalle mandal"
+  },
+  {
+    "id": 1606,
+    "name": "Garividi mandal"
+  },
+  {
+    "id": 1607,
+    "name": "Gurla mandal"
+  },
+  {
+    "id": 1608,
+    "name": "Merakamudidam mandal"
+  },
+  {
+    "id": 1609,
+    "name": "Rajam mandal"
+  },
+  {
+    "id": 1610,
+    "name": "Regidi Amadalavalasa mandal"
+  },
+  {
+    "id": 1611,
+    "name": "Santhakaviti mandal"
+  },
+  {
+    "id": 1612,
+    "name": "Vangara mandal"
+  },
+  {
+    "id": 1613,
+    "name": "Bhogapuram mandal"
+  },
+  {
+    "id": 1614,
+    "name": "Bondapalle mandal"
+  },
+  {
+    "id": 1615,
+    "name": "Denkada mandal"
+  },
+  {
+    "id": 1616,
+    "name": "Gantyada mandal"
+  },
+  {
+    "id": 1617,
+    "name": "Jami mandal"
+  },
+  {
+    "id": 1618,
+    "name": "Kothavalasa mandal"
+  },
+  {
+    "id": 1619,
+    "name": "Lakkavarapukota mandal"
+  },
+  {
+    "id": 1620,
+    "name": "Nellimarla mandal"
+  },
+  {
+    "id": 1621,
+    "name": "Pusapatirega mandal"
+  },
+  {
+    "id": 1622,
+    "name": "Srungavarapukota mandal"
+  },
+  {
+    "id": 1623,
+    "name": "Vepada mandal"
+  },
+  {
+    "id": 1624,
+    "name": "Vizianagaram mandal"
+  },
+  {
+    "id": 1625,
+    "name": "Akividu mandal"
+  },
+  {
+    "id": 1626,
+    "name": "Bhimavaram mandal"
+  },
+  {
+    "id": 1627,
+    "name": "Kalla mandal"
+  },
+  {
+    "id": 1628,
+    "name": "Palacoderu mandal"
+  },
+  {
+    "id": 1629,
+    "name": "Undi mandal"
+  },
+  {
+    "id": 1630,
+    "name": "Veeravasaram mandal"
+  },
+  {
+    "id": 1631,
+    "name": "Achanta mandal"
+  },
+  {
+    "id": 1632,
+    "name": "Mogalthur mandal"
+  },
+  {
+    "id": 1633,
+    "name": "Palakollu Mandal"
+  },
+  {
+    "id": 1634,
+    "name": "Penugonda mandal"
+  },
+  {
+    "id": 1635,
+    "name": "Penumantra mandal"
+  },
+  {
+    "id": 1636,
+    "name": "Poduru mandal"
+  },
+  {
+    "id": 1637,
+    "name": "Yelamanchili mandal"
+  },
+  {
+    "id": 1638,
+    "name": "Attili mandal"
+  },
+  {
+    "id": 1639,
+    "name": "Ganapavaram mandal"
+  },
+  {
+    "id": 1640,
+    "name": "Iragavaram mandal"
+  },
+  {
+    "id": 1641,
+    "name": "Pentapadu mandal"
+  },
+  {
+    "id": 1642,
+    "name": "Tadepalligudem mandal"
+  },
+  {
+    "id": 1643,
+    "name": "Tanuku mandal"
+  },
+  {
+    "id": 1644,
+    "name": "Atlur mandal"
+  },
+  {
+    "id": 1645,
+    "name": "B. Kodur mandal"
+  },
+  {
+    "id": 1646,
+    "name": "Badvel mandal"
+  },
+  {
+    "id": 1647,
+    "name": "Brahmamgarimattam mandal"
+  },
+  {
+    "id": 1648,
+    "name": "Chapad mandal"
+  },
+  {
+    "id": 1649,
+    "name": "Duvvur mandal"
+  },
+  {
+    "id": 1650,
+    "name": "Gopavaram mandal"
+  },
+  {
+    "id": 1651,
+    "name": "Kalasapadu mandal"
+  },
+  {
+    "id": 1652,
+    "name": "Khajipet mandal"
+  },
+  {
+    "id": 1653,
+    "name": "Porumamilla mandal"
+  },
+  {
+    "id": 1654,
+    "name": "S.Mydukur mandal"
+  },
+  {
+    "id": 1655,
+    "name": "Sri Avadhutha Kasinayana mandal"
+  },
+  {
+    "id": 1656,
+    "name": "Jammalamadugu mandal"
+  },
+  {
+    "id": 1657,
+    "name": "Kondapuram mandal"
+  },
+  {
+    "id": 1658,
+    "name": "Muddanur mandal"
+  },
+  {
+    "id": 1659,
+    "name": "Mylavaram mandal"
+  },
+  {
+    "id": 1660,
+    "name": "Peddamudium mandal"
+  },
+  {
+    "id": 1661,
+    "name": "Proddatur mandal"
+  },
+  {
+    "id": 1662,
+    "name": "Rajupalem mandal"
+  },
+  {
+    "id": 1663,
+    "name": "Chennur mandal"
+  },
+  {
+    "id": 1664,
+    "name": "Chinthakommadinne mandal"
+  },
+  {
+    "id": 1665,
+    "name": "Kadapa mandal"
+  },
+  {
+    "id": 1666,
+    "name": "Kamalapuram mandal"
+  },
+  {
+    "id": 1667,
+    "name": "Pendlimarri mandal"
+  },
+  {
+    "id": 1668,
+    "name": "Sidhout mandal"
+  },
+  {
+    "id": 1669,
+    "name": "Vallur mandal"
+  },
+  {
+    "id": 1670,
+    "name": "Vontimitta mandal"
+  },
+  {
+    "id": 1671,
+    "name": "Yerraguntla mandal"
+  },
+  {
+    "id": 1672,
+    "name": "Chakrayapet mandal"
+  },
+  {
+    "id": 1673,
+    "name": "Lingala mandal"
+  },
+  {
+    "id": 1674,
+    "name": "Pulivendla mandal"
+  },
+  {
+    "id": 1675,
+    "name": "Simhadripuram mandal"
+  },
+  {
+    "id": 1676,
+    "name": "Thondur mandal"
+  },
+  {
+    "id": 1677,
+    "name": "Veerapunayunipalle mandal"
+  },
+  {
+    "id": 1678,
+    "name": "Vempalle mandal"
+  },
+  {
+    "id": 1679,
+    "name": "Vemula mandal"
+  }
+]

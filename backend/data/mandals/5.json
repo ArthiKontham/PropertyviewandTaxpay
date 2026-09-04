@@ -1,0 +1,518 @@
+[
+  {
+    "id": 5001,
+    "name": "Raipur Tehsil"
+  },
+  {
+    "id": 5002,
+    "name": "Arang Tehsil"
+  },
+  {
+    "id": 5003,
+    "name": "Abhanpur Tehsil"
+  },
+  {
+    "id": 5004,
+    "name": "Tilda Tehsil"
+  },
+  {
+    "id": 5005,
+    "name": "Dharsiwa Tehsil"
+  },
+  {
+    "id": 5006,
+    "name": "Durg Tehsil"
+  },
+  {
+    "id": 5007,
+    "name": "Bhilai Tehsil"
+  },
+  {
+    "id": 5008,
+    "name": "Patan Tehsil"
+  },
+  {
+    "id": 5009,
+    "name": "Dhamdha Tehsil"
+  },
+  {
+    "id": 5010,
+    "name": "Rajnandgaon Tehsil"
+  },
+  {
+    "id": 5011,
+    "name": "Dongargaon Tehsil"
+  },
+  {
+    "id": 5012,
+    "name": "Dongargarh Tehsil"
+  },
+  {
+    "id": 5013,
+    "name": "Khairagarh Tehsil"
+  },
+  {
+    "id": 5014,
+    "name": "Chhuikhadan Tehsil"
+  },
+  {
+    "id": 5015,
+    "name": "Gandai Tehsil"
+  },
+  {
+    "id": 5016,
+    "name": "Balod Tehsil"
+  },
+  {
+    "id": 5017,
+    "name": "Gunderdehi Tehsil"
+  },
+  {
+    "id": 5018,
+    "name": "Dondi Lohara Tehsil"
+  },
+  {
+    "id": 5019,
+    "name": "Dondi Tehsil"
+  },
+  {
+    "id": 5020,
+    "name": "Gurur Tehsil"
+  },
+  {
+    "id": 5021,
+    "name": "Bemetara Tehsil"
+  },
+  {
+    "id": 5022,
+    "name": "Berla Tehsil"
+  },
+  {
+    "id": 5023,
+    "name": "Nawagarh Tehsil"
+  },
+  {
+    "id": 5024,
+    "name": "Saja Tehsil"
+  },
+  {
+    "id": 5025,
+    "name": "Thanakhamria Tehsil"
+  },
+  {
+    "id": 5026,
+    "name": "Bilaspur Tehsil"
+  },
+  {
+    "id": 5027,
+    "name": "Takhatpur Tehsil"
+  },
+  {
+    "id": 5028,
+    "name": "Bilha Tehsil"
+  },
+  {
+    "id": 5029,
+    "name": "Masturi Tehsil"
+  },
+  {
+    "id": 5030,
+    "name": "Kota Tehsil"
+  },
+  {
+    "id": 5031,
+    "name": "Mungeli Tehsil"
+  },
+  {
+    "id": 5032,
+    "name": "Patharia Tehsil"
+  },
+  {
+    "id": 5033,
+    "name": "Lormi Tehsil"
+  },
+  {
+    "id": 5034,
+    "name": "Korba Tehsil"
+  },
+  {
+    "id": 5035,
+    "name": "Katghora Tehsil"
+  },
+  {
+    "id": 5036,
+    "name": "Pali Tehsil"
+  },
+  {
+    "id": 5037,
+    "name": "Poundi-Uproda Tehsil"
+  },
+  {
+    "id": 5038,
+    "name": "Janjgir Tehsil"
+  },
+  {
+    "id": 5039,
+    "name": "Akaltara Tehsil"
+  },
+  {
+    "id": 5040,
+    "name": "Pamgarh Tehsil"
+  },
+  {
+    "id": 5041,
+    "name": "Nawagarh (Janjgir-Champa) Tehsil"
+  },
+  {
+    "id": 5042,
+    "name": "Champa Tehsil"
+  },
+  {
+    "id": 5043,
+    "name": "Baloda Tehsil"
+  },
+  {
+    "id": 5044,
+    "name": "Sakti Tehsil"
+  },
+  {
+    "id": 5045,
+    "name": "Malkharoda Tehsil"
+  },
+  {
+    "id": 5046,
+    "name": "Jaijaipur Tehsil"
+  },
+  {
+    "id": 5047,
+    "name": "Raigarh Tehsil"
+  },
+  {
+    "id": 5048,
+    "name": "Gharghoda Tehsil"
+  },
+  {
+    "id": 5049,
+    "name": "Kharsia Tehsil"
+  },
+  {
+    "id": 5050,
+    "name": "Sarangarh Tehsil"
+  },
+  {
+    "id": 5051,
+    "name": "Baramkela Tehsil"
+  },
+  {
+    "id": 5052,
+    "name": "Sarangarh-Bilaigarh Tehsil"
+  },
+  {
+    "id": 5053,
+    "name": "Bilaigarh Tehsil"
+  },
+  {
+    "id": 5054,
+    "name": "Kasdol Tehsil"
+  },
+  {
+    "id": 5055,
+    "name": "Baloda Bazar Tehsil"
+  },
+  {
+    "id": 5056,
+    "name": "Bhatapara Tehsil"
+  },
+  {
+    "id": 5057,
+    "name": "Palari Tehsil"
+  },
+  {
+    "id": 5058,
+    "name": "Simga Tehsil"
+  },
+  {
+    "id": 5059,
+    "name": "Mahasamund Tehsil"
+  },
+  {
+    "id": 5060,
+    "name": "Bagbahara Tehsil"
+  },
+  {
+    "id": 5061,
+    "name": "Basna Tehsil"
+  },
+  {
+    "id": 5062,
+    "name": "Pithora Tehsil"
+  },
+  {
+    "id": 5063,
+    "name": "Dhamtari Tehsil"
+  },
+  {
+    "id": 5064,
+    "name": "Kurud Tehsil"
+  },
+  {
+    "id": 5065,
+    "name": "Magarlod Tehsil"
+  },
+  {
+    "id": 5066,
+    "name": "Kanker Tehsil"
+  },
+  {
+    "id": 5067,
+    "name": "Bhanupratappur Tehsil"
+  },
+  {
+    "id": 5068,
+    "name": "Charama Tehsil"
+  },
+  {
+    "id": 5069,
+    "name": "Durgkondal Tehsil"
+  },
+  {
+    "id": 5070,
+    "name": "Antagarh Tehsil"
+  },
+  {
+    "id": 5071,
+    "name": "Pakhanjur Tehsil"
+  },
+  {
+    "id": 5072,
+    "name": "Narharpur Tehsil"
+  },
+  {
+    "id": 5073,
+    "name": "Narayanpur Tehsil"
+  },
+  {
+    "id": 5074,
+    "name": "Orchha Tehsil"
+  },
+  {
+    "id": 5075,
+    "name": "Kondagaon Tehsil"
+  },
+  {
+    "id": 5076,
+    "name": "Bade Rajpur Tehsil"
+  },
+  {
+    "id": 5077,
+    "name": "Makdi Tehsil"
+  },
+  {
+    "id": 5078,
+    "name": "Pharasgaon Tehsil"
+  },
+  {
+    "id": 5079,
+    "name": "Keshkal Tehsil"
+  },
+  {
+    "id": 5080,
+    "name": "Jagdalpur Tehsil"
+  },
+  {
+    "id": 5081,
+    "name": "Lohandiguda Tehsil"
+  },
+  {
+    "id": 5082,
+    "name": "Bastar Tehsil"
+  },
+  {
+    "id": 5083,
+    "name": "Tokapal Tehsil"
+  },
+  {
+    "id": 5084,
+    "name": "Bakawand Tehsil"
+  },
+  {
+    "id": 5085,
+    "name": "Sukma Tehsil"
+  },
+  {
+    "id": 5086,
+    "name": "Konta Tehsil"
+  },
+  {
+    "id": 5087,
+    "name": "Chhindgarh Tehsil"
+  },
+  {
+    "id": 5088,
+    "name": "Dantewada Tehsil"
+  },
+  {
+    "id": 5089,
+    "name": "Kuakonda Tehsil"
+  },
+  {
+    "id": 5090,
+    "name": "Gidam Tehsil"
+  },
+  {
+    "id": 5091,
+    "name": "Bijapur Tehsil"
+  },
+  {
+    "id": 5092,
+    "name": "Bhairamgarh Tehsil"
+  },
+  {
+    "id": 5093,
+    "name": "Bhopalpattanam Tehsil"
+  },
+  {
+    "id": 5094,
+    "name": "Usur Tehsil"
+  },
+  {
+    "id": 5095,
+    "name": "Kawardha Tehsil"
+  },
+  {
+    "id": 5096,
+    "name": "Pandariya Tehsil"
+  },
+  {
+    "id": 5097,
+    "name": "Bodla Tehsil"
+  },
+  {
+    "id": 5098,
+    "name": "Sahaspur Lohara Tehsil"
+  },
+  {
+    "id": 5099,
+    "name": "Surajpur Tehsil"
+  },
+  {
+    "id": 5100,
+    "name": "Pratappur Tehsil"
+  },
+  {
+    "id": 5101,
+    "name": "Premnagar Tehsil"
+  },
+  {
+    "id": 5102,
+    "name": "Ramanujnagar Tehsil"
+  },
+  {
+    "id": 5103,
+    "name": "Bhaiyathan Tehsil"
+  },
+  {
+    "id": 5104,
+    "name": "Surguja Tehsil"
+  },
+  {
+    "id": 5105,
+    "name": "Ambikapur Tehsil"
+  },
+  {
+    "id": 5106,
+    "name": "Lundra Tehsil"
+  },
+  {
+    "id": 5107,
+    "name": "Sitapur Tehsil"
+  },
+  {
+    "id": 5108,
+    "name": "Udaipur Tehsil"
+  },
+  {
+    "id": 5109,
+    "name": "Batouli Tehsil"
+  },
+  {
+    "id": 5110,
+    "name": "Mainpat Tehsil"
+  },
+  {
+    "id": 5111,
+    "name": "Balrampur Tehsil"
+  },
+  {
+    "id": 5112,
+    "name": "Ramanujganj Tehsil"
+  },
+  {
+    "id": 5113,
+    "name": "Rajpur Tehsil"
+  },
+  {
+    "id": 5114,
+    "name": "Shankargarh Tehsil"
+  },
+  {
+    "id": 5115,
+    "name": "Wadrafnagar Tehsil"
+  },
+  {
+    "id": 5116,
+    "name": "Kusmi Tehsil"
+  },
+  {
+    "id": 5117,
+    "name": "Jashpur Tehsil"
+  },
+  {
+    "id": 5118,
+    "name": "Bagicha Tehsil"
+  },
+  {
+    "id": 5119,
+    "name": "Kansabel Tehsil"
+  },
+  {
+    "id": 5120,
+    "name": "Manora Tehsil"
+  },
+  {
+    "id": 5121,
+    "name": "Duldula Tehsil"
+  },
+  {
+    "id": 5122,
+    "name": "Pathalgaon Tehsil"
+  },
+  {
+    "id": 5123,
+    "name": "Farsabahar Tehsil"
+  },
+  {
+    "id": 5124,
+    "name": "Kunkuri Tehsil"
+  },
+  {
+    "id": 5125,
+    "name": "Korba Rural Tehsil"
+  },
+  {
+    "id": 5126,
+    "name": "Katghora Rural Tehsil"
+  },
+  {
+    "id": 5127,
+    "name": "Gaurela Tehsil"
+  },
+  {
+    "id": 5128,
+    "name": "Pendra Tehsil"
+  },
+  {
+    "id": 5129,
+    "name": "Marwahi Tehsil"
+  }
+]

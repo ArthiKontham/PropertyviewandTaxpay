@@ -1,0 +1,140 @@
+[
+  { "id": 4001, "name": "Araria" },
+  { "id": 4002, "name": "Forbesganj" },
+
+  { "id": 4003, "name": "Arwal" },
+
+  { "id": 4004, "name": "Aurangabad" },
+  { "id": 4005, "name": "Daudnagar" },
+
+  { "id": 4006, "name": "Banka" },
+
+  { "id": 4007, "name": "Begusarai" },
+  { "id": 4008, "name": "Manjhaul" },
+  { "id": 4009, "name": "Ballia" },
+  { "id": 4010, "name": "Bakhari" },
+  { "id": 4011, "name": "Teghara" },
+
+  { "id": 4012, "name": "Bhagalpur" },
+  { "id": 4013, "name": "Kahalgaon" },
+  { "id": 4014, "name": "Naugachhia" },
+
+  { "id": 4015, "name": "Arrah" },
+  { "id": 4016, "name": "Jagdishpur" },
+  { "id": 4017, "name": "Piro" },
+
+  { "id": 4018, "name": "Buxar" },
+  { "id": 4019, "name": "Dumraon" },
+
+  { "id": 4020, "name": "Darbhanga" },
+  { "id": 4021, "name": "Benipur" },
+  { "id": 4022, "name": "Biraul" },
+
+  { "id": 4023, "name": "Motihari" },
+  { "id": 4024, "name": "Areraj" },
+  { "id": 4025, "name": "Raxaul" },
+  { "id": 4026, "name": "Sikarahna" },
+  { "id": 4027, "name": "Pakridayal" },
+  { "id": 4028, "name": "Chakia (East Champaran)" },
+
+  { "id": 4029, "name": "Gaya Sadar" },
+  { "id": 4030, "name": "Neemchak Bathani" },
+  { "id": 4031, "name": "Sherghati" },
+  { "id": 4032, "name": "Tekari" },
+
+  { "id": 4033, "name": "Gopalganj" },
+  { "id": 4034, "name": "Hathua" },
+
+  { "id": 4035, "name": "Jamui" },
+
+  { "id": 4036, "name": "Jehanabad" },
+
+  { "id": 4037, "name": "Bhabhua" },
+  { "id": 4038, "name": "Mohania" },
+
+  { "id": 4039, "name": "Katihar" },
+  { "id": 4040, "name": "Barsoi" },
+  { "id": 4041, "name": "Manihari" },
+
+  { "id": 4042, "name": "Khagaria" },
+  { "id": 4043, "name": "Gogri" },
+
+  { "id": 4044, "name": "Kishanganj" },
+
+  { "id": 4045, "name": "Lakhisarai" },
+
+  { "id": 4046, "name": "Madhepura" },
+  { "id": 4047, "name": "Udakishunganj" },
+
+  { "id": 4048, "name": "Madhubani" },
+  { "id": 4049, "name": "Jainagar" },
+  { "id": 4050, "name": "Benipatti" },
+  { "id": 4051, "name": "Jhanjharpur" },
+  { "id": 4052, "name": "Phulparas" },
+
+  { "id": 4053, "name": "Munger Sadar" },
+  { "id": 4054, "name": "Haveli Kharagpur" },
+  { "id": 4055, "name": "Tarapur" },
+
+  { "id": 4056, "name": "Muzaffarpur East" },
+  { "id": 4057, "name": "Muzaffarpur West" },
+
+  { "id": 4058, "name": "Bihar Sharif (Nalanda)" },
+  { "id": 4059, "name": "Rajgir" },
+  { "id": 4060, "name": "Hilsa" },
+
+  { "id": 4061, "name": "Nawada" },
+  { "id": 4062, "name": "Rajauli" },
+
+  { "id": 4063, "name": "Patna Sadar" },
+  { "id": 4064, "name": "Patna City" },
+  { "id": 4065, "name": "Barh" },
+  { "id": 4066, "name": "Danapur" },
+  { "id": 4067, "name": "Masaurhi" },
+  { "id": 4068, "name": "Paliganj" },
+
+  { "id": 4069, "name": "Purnia Sadar" },
+  { "id": 4070, "name": "Banmankhi" },
+  { "id": 4071, "name": "Dhamdaha" },
+  { "id": 4072, "name": "Baisi" },
+
+  { "id": 4073, "name": "Sasaram" },
+  { "id": 4074, "name": "Bikramganj" },
+  { "id": 4075, "name": "Dehri" },
+
+  { "id": 4076, "name": "Saharsa Sadar" },
+  { "id": 4077, "name": "Simri Bakhtiyarpur" },
+
+  { "id": 4078, "name": "Samastipur" },
+  { "id": 4079, "name": "Dalsinghsarai" },
+  { "id": 4080, "name": "Rosera" },
+  { "id": 4081, "name": "Patori" },
+
+  { "id": 4082, "name": "Chhapra" },
+  { "id": 4083, "name": "Marhaura" },
+  { "id": 4084, "name": "Sonepur" },
+
+  { "id": 4085, "name": "Sheikhpura" },
+
+  { "id": 4086, "name": "Sheohar" },
+
+  { "id": 4087, "name": "Sitamarhi Sadar" },
+  { "id": 4088, "name": "Belsand" },
+  { "id": 4089, "name": "Pupri" },
+
+  { "id": 4090, "name": "Siwan Sadar" },
+  { "id": 4091, "name": "Maharajganj (Siwan)" },
+
+  { "id": 4092, "name": "Supaul Sadar" },
+  { "id": 4093, "name": "Birpur" },
+  { "id": 4094, "name": "Nirmali" },
+  { "id": 4095, "name": "Triveniganj" },
+
+  { "id": 4096, "name": "Hajipur" },
+  { "id": 4097, "name": "Mahnar" },
+  { "id": 4098, "name": "Mahua" },
+
+  { "id": 4099, "name": "Bettiah" },
+  { "id": 4100, "name": "Bagaha" },
+  { "id": 4101, "name": "Narkatiaganj" }
+]

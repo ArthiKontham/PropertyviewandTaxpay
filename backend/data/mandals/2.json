@@ -1,0 +1,410 @@
+[
+  {
+    "id": 2001,
+    "name": "Along Circle"
+  },
+  {
+    "id": 2002,
+    "name": "Basar Circle"
+  },
+  {
+    "id": 2003,
+    "name": "Daporijo Circle"
+  },
+  {
+    "id": 2004,
+    "name": "Dumporijo Circle"
+  },
+  {
+    "id": 2005,
+    "name": "Gensi Circle"
+  },
+  {
+    "id": 2006,
+    "name": "Likabali Circle"
+  },
+  {
+    "id": 2007,
+    "name": "Mechuka Circle"
+  },
+  {
+    "id": 2008,
+    "name": "Monigong Circle"
+  },
+  {
+    "id": 2009,
+    "name": "Raga Circle"
+  },
+  {
+    "id": 2010,
+    "name": "Rumgong Circle"
+  },
+  {
+    "id": 2011,
+    "name": "Tato Circle"
+  },
+  {
+    "id": 2012,
+    "name": "Tirbin Circle"
+  },
+  {
+    "id": 2013,
+    "name": "Aalo East Circle"
+  },
+  {
+    "id": 2014,
+    "name": "Aalo West Circle"
+  },
+  {
+    "id": 2015,
+    "name": "Basar East Circle"
+  },
+  {
+    "id": 2016,
+    "name": "Basar West Circle"
+  },
+  {
+    "id": 2017,
+    "name": "Boleng Circle"
+  },
+  {
+    "id": 2018,
+    "name": "Kaying Circle"
+  },
+  {
+    "id": 2019,
+    "name": "Pangin Circle"
+  },
+  {
+    "id": 2020,
+    "name": "Rebo-Perging Circle"
+  },
+  {
+    "id": 2021,
+    "name": "Siyum Circle"
+  },
+  {
+    "id": 2022,
+    "name": "Yomcha Circle"
+  },
+  {
+    "id": 2023,
+    "name": "Ziro Circle"
+  },
+  {
+    "id": 2024,
+    "name": "Ziro I Circle"
+  },
+  {
+    "id": 2025,
+    "name": "Ziro II Circle"
+  },
+  {
+    "id": 2026,
+    "name": "Ziro III Circle"
+  },
+  {
+    "id": 2027,
+    "name": "Ziro IV Circle"
+  },
+  {
+    "id": 2028,
+    "name": "Yachuli Circle"
+  },
+  {
+    "id": 2029,
+    "name": "Palin Circle"
+  },
+  {
+    "id": 2030,
+    "name": "Koloriang Circle"
+  },
+  {
+    "id": 2031,
+    "name": "Nyapin Circle"
+  },
+  {
+    "id": 2032,
+    "name": "Sangram Circle"
+  },
+  {
+    "id": 2033,
+    "name": "Chambang Circle"
+  },
+  {
+    "id": 2034,
+    "name": "Seppa Circle"
+  },
+  {
+    "id": 2035,
+    "name": "Seppa East Circle"
+  },
+  {
+    "id": 2036,
+    "name": "Seppa West Circle"
+  },
+  {
+    "id": 2037,
+    "name": "Bameng Circle"
+  },
+  {
+    "id": 2038,
+    "name": "Chayangtajo Circle"
+  },
+  {
+    "id": 2039,
+    "name": "Pakke-Kessang Circle"
+  },
+  {
+    "id": 2040,
+    "name": "Balemu Circle"
+  },
+  {
+    "id": 2041,
+    "name": "Bhalukpong Circle"
+  },
+  {
+    "id": 2042,
+    "name": "Dirang Circle"
+  },
+  {
+    "id": 2043,
+    "name": "Bomdila Circle"
+  },
+  {
+    "id": 2044,
+    "name": "Kalaktang Circle"
+  },
+  {
+    "id": 2045,
+    "name": "Rupa Circle"
+  },
+  {
+    "id": 2046,
+    "name": "Thembang Circle"
+  },
+  {
+    "id": 2047,
+    "name": "Singchung Circle"
+  },
+  {
+    "id": 2048,
+    "name": "Jamiri Circle"
+  },
+  {
+    "id": 2049,
+    "name": "Tawang Circle"
+  },
+  {
+    "id": 2050,
+    "name": "Lumla Circle"
+  },
+  {
+    "id": 2051,
+    "name": "Zemithang Circle"
+  },
+  {
+    "id": 2052,
+    "name": "Mukto Circle"
+  },
+  {
+    "id": 2053,
+    "name": "Jang Circle"
+  },
+  {
+    "id": 2054,
+    "name": "Kitpi Circle"
+  },
+  {
+    "id": 2055,
+    "name": "Lhou Circle"
+  },
+  {
+    "id": 2056,
+    "name": "Dudunghar Circle"
+  },
+  {
+    "id": 2057,
+    "name": "Thingbu Circle"
+  },
+  {
+    "id": 2058,
+    "name": "Namsai Circle"
+  },
+  {
+    "id": 2059,
+    "name": "Chongkham Circle"
+  },
+  {
+    "id": 2060,
+    "name": "Lekang Circle"
+  },
+  {
+    "id": 2061,
+    "name": "Piyong Circle"
+  },
+  {
+    "id": 2062,
+    "name": "Manmao Circle"
+  },
+  {
+    "id": 2063,
+    "name": "Wakro Circle"
+  },
+  {
+    "id": 2064,
+    "name": "Sunpura Circle"
+  },
+  {
+    "id": 2065,
+    "name": "Tezu Circle"
+  },
+  {
+    "id": 2066,
+    "name": "Hayuliang Circle"
+  },
+  {
+    "id": 2067,
+    "name": "Chowkham Circle"
+  },
+  {
+    "id": 2068,
+    "name": "Miao Circle"
+  },
+  {
+    "id": 2069,
+    "name": "Nampong Circle"
+  },
+  {
+    "id": 2070,
+    "name": "Kharsang Circle"
+  },
+  {
+    "id": 2071,
+    "name": "Diyun Circle"
+  },
+  {
+    "id": 2072,
+    "name": "Jairampur Circle"
+  },
+  {
+    "id": 2073,
+    "name": "Changlang Circle"
+  },
+  {
+    "id": 2074,
+    "name": "Longding Circle"
+  },
+  {
+    "id": 2075,
+    "name": "Kanubari Circle"
+  },
+  {
+    "id": 2076,
+    "name": "Yingkiong Circle"
+  },
+  {
+    "id": 2077,
+    "name": "Geku Circle"
+  },
+  {
+    "id": 2078,
+    "name": "Mariyang Circle"
+  },
+  {
+    "id": 2079,
+    "name": "Tutong Circle"
+  },
+  {
+    "id": 2080,
+    "name": "Migging Circle"
+  },
+  {
+    "id": 2081,
+    "name": "Palling Circle"
+  },
+  {
+    "id": 2082,
+    "name": "Jengging Circle"
+  },
+  {
+    "id": 2083,
+    "name": "Katan Circle"
+  },
+  {
+    "id": 2084,
+    "name": "Tuting Circle"
+  },
+  {
+    "id": 2085,
+    "name": "Anini Circle"
+  },
+  {
+    "id": 2086,
+    "name": "Etalin Circle"
+  },
+  {
+    "id": 2087,
+    "name": "Mipi Circle"
+  },
+  {
+    "id": 2088,
+    "name": "Dambuk Circle"
+  },
+  {
+    "id": 2089,
+    "name": "Pasighat Circle"
+  },
+  {
+    "id": 2090,
+    "name": "Ruksin Circle"
+  },
+  {
+    "id": 2091,
+    "name": "Sille-Oyan Circle"
+  },
+  {
+    "id": 2092,
+    "name": "Bodak Circle"
+  },
+  {
+    "id": 2093,
+    "name": "Bilat Circle"
+  },
+  {
+    "id": 2094,
+    "name": "Kebang Circle"
+  },
+  {
+    "id": 2095,
+    "name": "Ruksin East Circle"
+  },
+  {
+    "id": 2096,
+    "name": "Ruksin West Circle"
+  },
+  {
+    "id": 2097,
+    "name": "Roing Circle"
+  },
+  {
+    "id": 2098,
+    "name": "Koronu Circle"
+  },
+  {
+    "id": 2099,
+    "name": "Hunli Circle"
+  },
+  {
+    "id": 2100,
+    "name": "Desali Circle"
+  },
+  {
+    "id": 2101,
+    "name": "Parbuk Circle"
+  },
+  {
+    "id": 2102,
+    "name": "Kibithu Circle"
+  }
+]

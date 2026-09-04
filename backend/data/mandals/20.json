@@ -1,0 +1,342 @@
+[
+  {
+    "id": 20001,
+    "name": "Abohar"
+  },
+  {
+    "id": 20002,
+    "name": "Ajnala"
+  },
+  {
+    "id": 20003,
+    "name": "Amloh"
+  },
+  {
+    "id": 20004,
+    "name": "Anandpur Sahib"
+  },
+  {
+    "id": 20005,
+    "name": "Baba Bakala"
+  },
+  {
+    "id": 20006,
+    "name": "Bagha Purana"
+  },
+  {
+    "id": 20007,
+    "name": "Balachaur"
+  },
+  {
+    "id": 20008,
+    "name": "Barnala"
+  },
+  {
+    "id": 20009,
+    "name": "Bassi Pathana"
+  },
+  {
+    "id": 20010,
+    "name": "Batala"
+  },
+  {
+    "id": 20011,
+    "name": "Bhadaur"
+  },
+  {
+    "id": 20012,
+    "name": "Bhikhiwind"
+  },
+  {
+    "id": 20013,
+    "name": "Bholath"
+  },
+  {
+    "id": 20014,
+    "name": "Budhlada"
+  },
+  {
+    "id": 20015,
+    "name": "Chamkaur Sahib"
+  },
+  {
+    "id": 20016,
+    "name": "Dera Baba Nanak"
+  },
+  {
+    "id": 20017,
+    "name": "Dera Bassi"
+  },
+  {
+    "id": 20018,
+    "name": "Dhar Kalan"
+  },
+  {
+    "id": 20019,
+    "name": "Dhuri"
+  },
+  {
+    "id": 20020,
+    "name": "Faridkot"
+  },
+  {
+    "id": 20021,
+    "name": "Fatehgarh Churian"
+  },
+  {
+    "id": 20022,
+    "name": "Fatehgarh Sahib"
+  },
+  {
+    "id": 20023,
+    "name": "Fazilka"
+  },
+  {
+    "id": 20024,
+    "name": "Ferozepur"
+  },
+  {
+    "id": 20025,
+    "name": "Garhshankar"
+  },
+  {
+    "id": 20026,
+    "name": "Ghanaur"
+  },
+  {
+    "id": 20027,
+    "name": "Gidderbaha"
+  },
+  {
+    "id": 20028,
+    "name": "Guru Har Sahai"
+  },
+  {
+    "id": 20029,
+    "name": "Hoshiarpur"
+  },
+  {
+    "id": 20030,
+    "name": "Jagraon"
+  },
+  {
+    "id": 20031,
+    "name": "Jaitu"
+  },
+  {
+    "id": 20032,
+    "name": "Jalalabad"
+  },
+  {
+    "id": 20033,
+    "name": "Jalandhar East"
+  },
+  {
+    "id": 20034,
+    "name": "Jalandhar West"
+  },
+  {
+    "id": 20035,
+    "name": "Kalanaur"
+  },
+  {
+    "id": 20036,
+    "name": "Kapurthala"
+  },
+  {
+    "id": 20037,
+    "name": "Kharar"
+  },
+  {
+    "id": 20038,
+    "name": "Khanna"
+  },
+  {
+    "id": 20039,
+    "name": "Khem Karan"
+  },
+  {
+    "id": 20040,
+    "name": "Kot Ise Khan"
+  },
+  {
+    "id": 20041,
+    "name": "Kotkapura"
+  },
+  {
+    "id": 20042,
+    "name": "Lehra"
+  },
+  {
+    "id": 20043,
+    "name": "Ludhiana East"
+  },
+  {
+    "id": 20044,
+    "name": "Ludhiana West"
+  },
+  {
+    "id": 20045,
+    "name": "Majitha"
+  },
+  {
+    "id": 20046,
+    "name": "Malerkotla"
+  },
+  {
+    "id": 20047,
+    "name": "Malout"
+  },
+  {
+    "id": 20048,
+    "name": "Mansa"
+  },
+  {
+    "id": 20049,
+    "name": "Maur"
+  },
+  {
+    "id": 20050,
+    "name": "Moga"
+  },
+  {
+    "id": 20051,
+    "name": "Moonak"
+  },
+  {
+    "id": 20052,
+    "name": "Morinda"
+  },
+  {
+    "id": 20053,
+    "name": "Mukerian"
+  },
+  {
+    "id": 20054,
+    "name": "Muktsar"
+  },
+  {
+    "id": 20055,
+    "name": "Nabha"
+  },
+  {
+    "id": 20056,
+    "name": "Nakodar"
+  },
+  {
+    "id": 20057,
+    "name": "Nangal"
+  },
+  {
+    "id": 20058,
+    "name": "Nawanshahr"
+  },
+  {
+    "id": 20059,
+    "name": "Nihal Singh Wala"
+  },
+  {
+    "id": 20060,
+    "name": "Nurmahal"
+  },
+  {
+    "id": 20061,
+    "name": "Pathankot"
+  },
+  {
+    "id": 20062,
+    "name": "Patiala"
+  },
+  {
+    "id": 20063,
+    "name": "Patti"
+  },
+  {
+    "id": 20064,
+    "name": "Payal"
+  },
+  {
+    "id": 20065,
+    "name": "Phagwara"
+  },
+  {
+    "id": 20066,
+    "name": "Phillaur"
+  },
+  {
+    "id": 20067,
+    "name": "Qadian"
+  },
+  {
+    "id": 20068,
+    "name": "Raikot"
+  },
+  {
+    "id": 20069,
+    "name": "Rajpura"
+  },
+  {
+    "id": 20070,
+    "name": "Rampura Phul"
+  },
+  {
+    "id": 20071,
+    "name": "Rayya"
+  },
+  {
+    "id": 20072,
+    "name": "Rupnagar"
+  },
+  {
+    "id": 20073,
+    "name": "Samana"
+  },
+  {
+    "id": 20074,
+    "name": "Samrala"
+  },
+  {
+    "id": 20075,
+    "name": "Sangrur"
+  },
+  {
+    "id": 20076,
+    "name": "Sardulgarh"
+  },
+  {
+    "id": 20077,
+    "name": "Shahkot"
+  },
+  {
+    "id": 20078,
+    "name": "Shambu Kalan"
+  },
+  {
+    "id": 20079,
+    "name": "Sultanpur Lodhi"
+  },
+  {
+    "id": 20080,
+    "name": "Sunam"
+  },
+  {
+    "id": 20081,
+    "name": "Talwandi Sabo"
+  },
+  {
+    "id": 20082,
+    "name": "Tanda"
+  },
+  {
+    "id": 20083,
+    "name": "Tarn Taran"
+  },
+  {
+    "id": 20084,
+    "name": "Zira"
+  },
+  {
+    "id": 20085,
+    "name": "Zirakpur"
+  }
+]

@@ -1,0 +1,1458 @@
+[
+  {
+    "id": 26001,
+    "name": "Agra"
+  },
+  {
+    "id": 26002,
+    "name": "Etmadpur"
+  },
+  {
+    "id": 26003,
+    "name": "Kiraoli"
+  },
+  {
+    "id": 26004,
+    "name": "Fatehabad"
+  },
+  {
+    "id": 26005,
+    "name": "Akbarpur"
+  },
+  {
+    "id": 26006,
+    "name": "Tanda"
+  },
+  {
+    "id": 26007,
+    "name": "Jalalpur"
+  },
+  {
+    "id": 26008,
+    "name": "Aligarh"
+  },
+  {
+    "id": 26009,
+    "name": "Atrauli"
+  },
+  {
+    "id": 26010,
+    "name": "Khair"
+  },
+  {
+    "id": 26011,
+    "name": "Gabhana"
+  },
+  {
+    "id": 26012,
+    "name": "Iglas"
+  },
+  {
+    "id": 26013,
+    "name": "Prayagraj"
+  },
+  {
+    "id": 26014,
+    "name": "Soraon"
+  },
+  {
+    "id": 26015,
+    "name": "Phulpur"
+  },
+  {
+    "id": 26016,
+    "name": "Bara"
+  },
+  {
+    "id": 26017,
+    "name": "Karchhana"
+  },
+  {
+    "id": 26018,
+    "name": "Handia"
+  },
+  {
+    "id": 26019,
+    "name": "Meja"
+  },
+  {
+    "id": 26020,
+    "name": "Ambedkar Nagar"
+  },
+  {
+    "id": 26021,
+    "name": "Alapur"
+  },
+  {
+    "id": 26022,
+    "name": "Jalalpur"
+  },
+  {
+    "id": 26023,
+    "name": "Tanda"
+  },
+  {
+    "id": 26024,
+    "name": "Amethi"
+  },
+  {
+    "id": 26025,
+    "name": "Gauriganj"
+  },
+  {
+    "id": 26026,
+    "name": "Musafirkhana"
+  },
+  {
+    "id": 26027,
+    "name": "Tiloi"
+  },
+  {
+    "id": 26028,
+    "name": "Amroha"
+  },
+  {
+    "id": 26029,
+    "name": "Amroha"
+  },
+  {
+    "id": 26030,
+    "name": "Dhanaura"
+  },
+  {
+    "id": 26031,
+    "name": "Hasanpur"
+  },
+  {
+    "id": 26032,
+    "name": "Auraiya"
+  },
+  {
+    "id": 26033,
+    "name": "Auraiya"
+  },
+  {
+    "id": 26034,
+    "name": "Bidhuna"
+  },
+  {
+    "id": 26035,
+    "name": "Azamgarh"
+  },
+  {
+    "id": 26036,
+    "name": "Azamgarh"
+  },
+  {
+    "id": 26037,
+    "name": "Burhanpur"
+  },
+  {
+    "id": 26038,
+    "name": "Lalganj"
+  },
+  {
+    "id": 26039,
+    "name": "Mehnagar"
+  },
+  {
+    "id": 26040,
+    "name": "Sagri"
+  },
+  {
+    "id": 26041,
+    "name": "Baghpat"
+  },
+  {
+    "id": 26042,
+    "name": "Baghpat"
+  },
+  {
+    "id": 26043,
+    "name": "Baraut"
+  },
+  {
+    "id": 26044,
+    "name": "Khekra"
+  },
+  {
+    "id": 26045,
+    "name": "Bahraich"
+  },
+  {
+    "id": 26046,
+    "name": "Bahraich"
+  },
+  {
+    "id": 26047,
+    "name": "Kaiserganj"
+  },
+  {
+    "id": 26048,
+    "name": "Nanpara"
+  },
+  {
+    "id": 26049,
+    "name": "Payagpur"
+  },
+  {
+    "id": 26050,
+    "name": "Mahasi"
+  },
+  {
+    "id": 26051,
+    "name": "Ballia"
+  },
+  {
+    "id": 26052,
+    "name": "Ballia"
+  },
+  {
+    "id": 26053,
+    "name": "Bansdih"
+  },
+  {
+    "id": 26054,
+    "name": "Belthara Road"
+  },
+  {
+    "id": 26055,
+    "name": "Rasra"
+  },
+  {
+    "id": 26056,
+    "name": "Sikanderpur"
+  },
+  {
+    "id": 26057,
+    "name": "Balrampur"
+  },
+  {
+    "id": 26058,
+    "name": "Balrampur"
+  },
+  {
+    "id": 26059,
+    "name": "Tulsipur"
+  },
+  {
+    "id": 26060,
+    "name": "Utraula"
+  },
+  {
+    "id": 26061,
+    "name": "Banda"
+  },
+  {
+    "id": 26062,
+    "name": "Banda"
+  },
+  {
+    "id": 26063,
+    "name": "Atarra"
+  },
+  {
+    "id": 26064,
+    "name": "Baberu"
+  },
+  {
+    "id": 26065,
+    "name": "Barabanki"
+  },
+  {
+    "id": 26066,
+    "name": "Nawabganj"
+  },
+  {
+    "id": 26067,
+    "name": "Fatehpur"
+  },
+  {
+    "id": 26068,
+    "name": "Ramnagar"
+  },
+  {
+    "id": 26069,
+    "name": "Haidergarh"
+  },
+  {
+    "id": 26070,
+    "name": "Sirauli Gauspur"
+  },
+  {
+    "id": 26071,
+    "name": "Bareilly"
+  },
+  {
+    "id": 26072,
+    "name": "Bareilly"
+  },
+  {
+    "id": 26073,
+    "name": "Aonla"
+  },
+  {
+    "id": 26074,
+    "name": "Baheri"
+  },
+  {
+    "id": 26075,
+    "name": "Faridpur"
+  },
+  {
+    "id": 26076,
+    "name": "Meerganj"
+  },
+  {
+    "id": 26077,
+    "name": "Nawabganj"
+  },
+  {
+    "id": 26078,
+    "name": "Basti"
+  },
+  {
+    "id": 26079,
+    "name": "Basti"
+  },
+  {
+    "id": 26080,
+    "name": "Harraiya"
+  },
+  {
+    "id": 26081,
+    "name": "Rudhauli"
+  },
+  {
+    "id": 26082,
+    "name": "Bijnor"
+  },
+  {
+    "id": 26083,
+    "name": "Bijnor"
+  },
+  {
+    "id": 26084,
+    "name": "Chandpur"
+  },
+  {
+    "id": 26085,
+    "name": "Dhampur"
+  },
+  {
+    "id": 26086,
+    "name": "Nagina"
+  },
+  {
+    "id": 26087,
+    "name": "Najibabad"
+  },
+  {
+    "id": 26088,
+    "name": "Budaun"
+  },
+  {
+    "id": 26089,
+    "name": "Budaun"
+  },
+  {
+    "id": 26090,
+    "name": "Bilsi"
+  },
+  {
+    "id": 26091,
+    "name": "Dataganj"
+  },
+  {
+    "id": 26092,
+    "name": "Gunnaur"
+  },
+  {
+    "id": 26093,
+    "name": "Sahaswan"
+  },
+  {
+    "id": 26094,
+    "name": "Bisoli"
+  },
+  {
+    "id": 26095,
+    "name": "Bulandshahr"
+  },
+  {
+    "id": 26096,
+    "name": "Bulandshahr"
+  },
+  {
+    "id": 26097,
+    "name": "Anupshahr"
+  },
+  {
+    "id": 26098,
+    "name": "Debai"
+  },
+  {
+    "id": 26099,
+    "name": "Khurja"
+  },
+  {
+    "id": 26100,
+    "name": "Sikandrabad"
+  },
+  {
+    "id": 26101,
+    "name": "Shikarpur"
+  },
+  {
+    "id": 26102,
+    "name": "Chandauli"
+  },
+  {
+    "id": 26103,
+    "name": "Chakia"
+  },
+  {
+    "id": 26104,
+    "name": "Mugalsarai"
+  },
+  {
+    "id": 26105,
+    "name": "Sakaldiha"
+  },
+  {
+    "id": 26106,
+    "name": "Chitrakoot"
+  },
+  {
+    "id": 26107,
+    "name": "Karwi"
+  },
+  {
+    "id": 26108,
+    "name": "Manikpur"
+  },
+  {
+    "id": 26109,
+    "name": "Deoria"
+  },
+  {
+    "id": 26110,
+    "name": "Deoria"
+  },
+  {
+    "id": 26111,
+    "name": "Bhatpar Rani"
+  },
+  {
+    "id": 26112,
+    "name": "Salempur"
+  },
+  {
+    "id": 26113,
+    "name": "Rudrapur"
+  },
+  {
+    "id": 26114,
+    "name": "Etah"
+  },
+  {
+    "id": 26115,
+    "name": "Etah"
+  },
+  {
+    "id": 26116,
+    "name": "Aliganj"
+  },
+  {
+    "id": 26117,
+    "name": "Jalesar"
+  },
+  {
+    "id": 26118,
+    "name": "Etawah"
+  },
+  {
+    "id": 26119,
+    "name": "Etawah"
+  },
+  {
+    "id": 26120,
+    "name": "Bharthana"
+  },
+  {
+    "id": 26121,
+    "name": "Jaswantnagar"
+  },
+  {
+    "id": 26122,
+    "name": "Saifai"
+  },
+  {
+    "id": 26123,
+    "name": "Chakarnagar"
+  },
+  {
+    "id": 26124,
+    "name": "Ayodhya"
+  },
+  {
+    "id": 26125,
+    "name": "Ayodhya"
+  },
+  {
+    "id": 26126,
+    "name": "Bikapur"
+  },
+  {
+    "id": 26127,
+    "name": "Rudauli"
+  },
+  {
+    "id": 26128,
+    "name": "Milkipur"
+  },
+  {
+    "id": 26129,
+    "name": "Sohawal"
+  },
+  {
+    "id": 26130,
+    "name": "Farrukhabad"
+  },
+  {
+    "id": 26131,
+    "name": "Farrukhabad"
+  },
+  {
+    "id": 26132,
+    "name": "Amritpur"
+  },
+  {
+    "id": 26133,
+    "name": "Kaimganj"
+  },
+  {
+    "id": 26134,
+    "name": "Fatehpur"
+  },
+  {
+    "id": 26135,
+    "name": "Fatehpur"
+  },
+  {
+    "id": 26136,
+    "name": "Bindki"
+  },
+  {
+    "id": 26137,
+    "name": "Khaga"
+  },
+  {
+    "id": 26138,
+    "name": "Firozabad"
+  },
+  {
+    "id": 26139,
+    "name": "Firozabad"
+  },
+  {
+    "id": 26140,
+    "name": "Jasrana"
+  },
+  {
+    "id": 26141,
+    "name": "Shikohabad"
+  },
+  {
+    "id": 26142,
+    "name": "Tundla"
+  },
+  {
+    "id": 26143,
+    "name": "Gautam Buddha Nagar"
+  },
+  {
+    "id": 26144,
+    "name": "Dadri"
+  },
+  {
+    "id": 26145,
+    "name": "Jewar"
+  },
+  {
+    "id": 26146,
+    "name": "Noida"
+  },
+  {
+    "id": 26147,
+    "name": "Ghaziabad"
+  },
+  {
+    "id": 26148,
+    "name": "Ghaziabad"
+  },
+  {
+    "id": 26149,
+    "name": "Loni"
+  },
+  {
+    "id": 26150,
+    "name": "Modinagar"
+  },
+  {
+    "id": 26151,
+    "name": "Muradnagar"
+  },
+  {
+    "id": 26152,
+    "name": "Ghazipur"
+  },
+  {
+    "id": 26153,
+    "name": "Ghazipur"
+  },
+  {
+    "id": 26154,
+    "name": "Jakhania"
+  },
+  {
+    "id": 26155,
+    "name": "Saidpur"
+  },
+  {
+    "id": 26156,
+    "name": "Zamania"
+  },
+  {
+    "id": 26157,
+    "name": "Gonda"
+  },
+  {
+    "id": 26158,
+    "name": "Gonda"
+  },
+  {
+    "id": 26159,
+    "name": "Colonelganj"
+  },
+  {
+    "id": 26160,
+    "name": "Mankapur"
+  },
+  {
+    "id": 26161,
+    "name": "Tarabganj"
+  },
+  {
+    "id": 26162,
+    "name": "Gorakhpur"
+  },
+  {
+    "id": 26163,
+    "name": "Gorakhpur"
+  },
+  {
+    "id": 26164,
+    "name": "Bansgaon"
+  },
+  {
+    "id": 26165,
+    "name": "Campierganj"
+  },
+  {
+    "id": 26166,
+    "name": "Chauri Chaura"
+  },
+  {
+    "id": 26167,
+    "name": "Sahjanwa"
+  },
+  {
+    "id": 26168,
+    "name": "Hamirpur"
+  },
+  {
+    "id": 26169,
+    "name": "Hamirpur"
+  },
+  {
+    "id": 26170,
+    "name": "Maudaha"
+  },
+  {
+    "id": 26171,
+    "name": "Rath"
+  },
+  {
+    "id": 26172,
+    "name": "Sarila"
+  },
+  {
+    "id": 26173,
+    "name": "Hapur"
+  },
+  {
+    "id": 26174,
+    "name": "Hapur"
+  },
+  {
+    "id": 26175,
+    "name": "Garhmukteshwar"
+  },
+  {
+    "id": 26176,
+    "name": "Dhaulana"
+  },
+  {
+    "id": 26177,
+    "name": "Hardoi"
+  },
+  {
+    "id": 26178,
+    "name": "Hardoi"
+  },
+  {
+    "id": 26179,
+    "name": "Bilgram"
+  },
+  {
+    "id": 26180,
+    "name": "Sandila"
+  },
+  {
+    "id": 26181,
+    "name": "Shahabad"
+  },
+  {
+    "id": 26182,
+    "name": "Sawayajpur"
+  },
+  {
+    "id": 26183,
+    "name": "Hathras"
+  },
+  {
+    "id": 26184,
+    "name": "Hathras"
+  },
+  {
+    "id": 26185,
+    "name": "Sasni"
+  },
+  {
+    "id": 26186,
+    "name": "Sikandra Rao"
+  },
+  {
+    "id": 26187,
+    "name": "Jalaun"
+  },
+  {
+    "id": 26188,
+    "name": "Orai"
+  },
+  {
+    "id": 26189,
+    "name": "Kalpi"
+  },
+  {
+    "id": 26190,
+    "name": "Madhogarh"
+  },
+  {
+    "id": 26191,
+    "name": "Jaunpur"
+  },
+  {
+    "id": 26192,
+    "name": "Jaunpur"
+  },
+  {
+    "id": 26193,
+    "name": "Badlapur"
+  },
+  {
+    "id": 26194,
+    "name": "Kerakat"
+  },
+  {
+    "id": 26195,
+    "name": "Machhlishahr"
+  },
+  {
+    "id": 26196,
+    "name": "Mariahu"
+  },
+  {
+    "id": 26197,
+    "name": "Shahganj"
+  },
+  {
+    "id": 26198,
+    "name": "Jhansi"
+  },
+  {
+    "id": 26199,
+    "name": "Jhansi"
+  },
+  {
+    "id": 26200,
+    "name": "Garautha"
+  },
+  {
+    "id": 26201,
+    "name": "Moth"
+  },
+  {
+    "id": 26202,
+    "name": "Tahrauli"
+  },
+  {
+    "id": 26203,
+    "name": "Kannauj"
+  },
+  {
+    "id": 26204,
+    "name": "Kannauj"
+  },
+  {
+    "id": 26205,
+    "name": "Chhibramau"
+  },
+  {
+    "id": 26206,
+    "name": "Tirwa"
+  },
+  {
+    "id": 26207,
+    "name": "Kanpur Dehat"
+  },
+  {
+    "id": 26208,
+    "name": "Akbarpur"
+  },
+  {
+    "id": 26209,
+    "name": "Bhognipur"
+  },
+  {
+    "id": 26210,
+    "name": "Derapur"
+  },
+  {
+    "id": 26211,
+    "name": "Rasulabad"
+  },
+  {
+    "id": 26212,
+    "name": "Sikandra"
+  },
+  {
+    "id": 26213,
+    "name": "Kanpur Nagar"
+  },
+  {
+    "id": 26214,
+    "name": "Kanpur"
+  },
+  {
+    "id": 26215,
+    "name": "Bilhaur"
+  },
+  {
+    "id": 26216,
+    "name": "Ghatampur"
+  },
+  {
+    "id": 26217,
+    "name": "Kasganj"
+  },
+  {
+    "id": 26218,
+    "name": "Kasganj"
+  },
+  {
+    "id": 26219,
+    "name": "Patiyali"
+  },
+  {
+    "id": 26220,
+    "name": "Sahawar"
+  },
+  {
+    "id": 26221,
+    "name": "Kaushambi"
+  },
+  {
+    "id": 26222,
+    "name": "Manjhanpur"
+  },
+  {
+    "id": 26223,
+    "name": "Sirathu"
+  },
+  {
+    "id": 26224,
+    "name": "Chail"
+  },
+  {
+    "id": 26225,
+    "name": "Kushinagar"
+  },
+  {
+    "id": 26226,
+    "name": "Padrauna"
+  },
+  {
+    "id": 26227,
+    "name": "Hata"
+  },
+  {
+    "id": 26228,
+    "name": "Kaptanganj"
+  },
+  {
+    "id": 26229,
+    "name": "Tamkuhi Raj"
+  },
+  {
+    "id": 26230,
+    "name": "Lakhimpur Kheri"
+  },
+  {
+    "id": 26231,
+    "name": "Lakhimpur"
+  },
+  {
+    "id": 26232,
+    "name": "Gola Gokaran Nath"
+  },
+  {
+    "id": 26233,
+    "name": "Mohammdi"
+  },
+  {
+    "id": 26234,
+    "name": "Nighasan"
+  },
+  {
+    "id": 26235,
+    "name": "Palia"
+  },
+  {
+    "id": 26236,
+    "name": "Lalitpur"
+  },
+  {
+    "id": 26237,
+    "name": "Lalitpur"
+  },
+  {
+    "id": 26238,
+    "name": "Mahroni"
+  },
+  {
+    "id": 26239,
+    "name": "Talbehat"
+  },
+  {
+    "id": 26240,
+    "name": "Lucknow"
+  },
+  {
+    "id": 26241,
+    "name": "Lucknow"
+  },
+  {
+    "id": 26242,
+    "name": "Bakshi Ka Talab"
+  },
+  {
+    "id": 26243,
+    "name": "Malihabad"
+  },
+  {
+    "id": 26244,
+    "name": "Mohanlalganj"
+  },
+  {
+    "id": 26245,
+    "name": "Maharajganj"
+  },
+  {
+    "id": 26246,
+    "name": "Maharajganj"
+  },
+  {
+    "id": 26247,
+    "name": "Nichlaul"
+  },
+  {
+    "id": 26248,
+    "name": "Pharenda"
+  },
+  {
+    "id": 26249,
+    "name": "Mahoba"
+  },
+  {
+    "id": 26250,
+    "name": "Mahoba"
+  },
+  {
+    "id": 26251,
+    "name": "Charkhari"
+  },
+  {
+    "id": 26252,
+    "name": "Kulpahar"
+  },
+  {
+    "id": 26253,
+    "name": "Mainpuri"
+  },
+  {
+    "id": 26254,
+    "name": "Mainpuri"
+  },
+  {
+    "id": 26255,
+    "name": "Bhogaon"
+  },
+  {
+    "id": 26256,
+    "name": "Karhal"
+  },
+  {
+    "id": 26257,
+    "name": "Kurawali"
+  },
+  {
+    "id": 26258,
+    "name": "Mathura"
+  },
+  {
+    "id": 26259,
+    "name": "Mathura"
+  },
+  {
+    "id": 26260,
+    "name": "Chhata"
+  },
+  {
+    "id": 26261,
+    "name": "Goverdhan"
+  },
+  {
+    "id": 26262,
+    "name": "Mant"
+  },
+  {
+    "id": 26263,
+    "name": "Mahavan"
+  },
+  {
+    "id": 26264,
+    "name": "Mau"
+  },
+  {
+    "id": 26265,
+    "name": "Mau"
+  },
+  {
+    "id": 26266,
+    "name": "Ghosi"
+  },
+  {
+    "id": 26267,
+    "name": "Madhuban"
+  },
+  {
+    "id": 26268,
+    "name": "Muhammadabad Gohna"
+  },
+  {
+    "id": 26269,
+    "name": "Meerut"
+  },
+  {
+    "id": 26270,
+    "name": "Meerut"
+  },
+  {
+    "id": 26271,
+    "name": "Sardhana"
+  },
+  {
+    "id": 26272,
+    "name": "Mawana"
+  },
+  {
+    "id": 26273,
+    "name": "Kithore"
+  },
+  {
+    "id": 26274,
+    "name": "Mirzapur"
+  },
+  {
+    "id": 26275,
+    "name": "Mirzapur"
+  },
+  {
+    "id": 26276,
+    "name": "Chunar"
+  },
+  {
+    "id": 26277,
+    "name": "Lalganj"
+  },
+  {
+    "id": 26278,
+    "name": "Moradabad"
+  },
+  {
+    "id": 26279,
+    "name": "Moradabad"
+  },
+  {
+    "id": 26280,
+    "name": "Bilari"
+  },
+  {
+    "id": 26281,
+    "name": "Chandausi"
+  },
+  {
+    "id": 26282,
+    "name": "Kanth"
+  },
+  {
+    "id": 26283,
+    "name": "Thakurdwara"
+  },
+  {
+    "id": 26284,
+    "name": "Muzaffarnagar"
+  },
+  {
+    "id": 26285,
+    "name": "Muzaffarnagar"
+  },
+  {
+    "id": 26286,
+    "name": "Budhana"
+  },
+  {
+    "id": 26287,
+    "name": "Khatauli"
+  },
+  {
+    "id": 26288,
+    "name": "Shamli"
+  },
+  {
+    "id": 26289,
+    "name": "Pilibhit"
+  },
+  {
+    "id": 26290,
+    "name": "Pilibhit"
+  },
+  {
+    "id": 26291,
+    "name": "Bisalpur"
+  },
+  {
+    "id": 26292,
+    "name": "Puranpur"
+  },
+  {
+    "id": 26293,
+    "name": "Pratapgarh"
+  },
+  {
+    "id": 26294,
+    "name": "Pratapgarh"
+  },
+  {
+    "id": 26295,
+    "name": "Kunda"
+  },
+  {
+    "id": 26296,
+    "name": "Lalganj"
+  },
+  {
+    "id": 26297,
+    "name": "Patti"
+  },
+  {
+    "id": 26298,
+    "name": "Raniganj"
+  },
+  {
+    "id": 26299,
+    "name": "Raebareli"
+  },
+  {
+    "id": 26300,
+    "name": "Raebareli"
+  },
+  {
+    "id": 26301,
+    "name": "Salon"
+  },
+  {
+    "id": 26302,
+    "name": "Tiloi"
+  },
+  {
+    "id": 26303,
+    "name": "Unchahar"
+  },
+  {
+    "id": 26304,
+    "name": "Lalganj"
+  },
+  {
+    "id": 26305,
+    "name": "Rampur"
+  },
+  {
+    "id": 26306,
+    "name": "Rampur"
+  },
+  {
+    "id": 26307,
+    "name": "Bilaspur"
+  },
+  {
+    "id": 26308,
+    "name": "Milak"
+  },
+  {
+    "id": 26309,
+    "name": "Suar"
+  },
+  {
+    "id": 26310,
+    "name": "Shahabad"
+  },
+  {
+    "id": 26311,
+    "name": "Saharanpur"
+  },
+  {
+    "id": 26312,
+    "name": "Saharanpur"
+  },
+  {
+    "id": 26313,
+    "name": "Behat"
+  },
+  {
+    "id": 26314,
+    "name": "Deoband"
+  },
+  {
+    "id": 26315,
+    "name": "Nakur"
+  },
+  {
+    "id": 26316,
+    "name": "Rampur Maniharan"
+  },
+  {
+    "id": 26317,
+    "name": "Sambhal"
+  },
+  {
+    "id": 26318,
+    "name": "Sambhal"
+  },
+  {
+    "id": 26319,
+    "name": "Chandausi"
+  },
+  {
+    "id": 26320,
+    "name": "Gunnaur"
+  },
+  {
+    "id": 26321,
+    "name": "Sant Kabir Nagar"
+  },
+  {
+    "id": 26322,
+    "name": "Khalilabad"
+  },
+  {
+    "id": 26323,
+    "name": "Mehdawal"
+  },
+  {
+    "id": 26324,
+    "name": "Dhanghata"
+  },
+  {
+    "id": 26325,
+    "name": "Shahjahanpur"
+  },
+  {
+    "id": 26326,
+    "name": "Shahjahanpur"
+  },
+  {
+    "id": 26327,
+    "name": "Jalalabad"
+  },
+  {
+    "id": 26328,
+    "name": "Powayan"
+  },
+  {
+    "id": 26329,
+    "name": "Tilhar"
+  },
+  {
+    "id": 26330,
+    "name": "Shravasti"
+  },
+  {
+    "id": 26331,
+    "name": "Bhinga"
+  },
+  {
+    "id": 26332,
+    "name": "Ikauna"
+  },
+  {
+    "id": 26333,
+    "name": "Siddharthnagar"
+  },
+  {
+    "id": 26334,
+    "name": "Naugarh"
+  },
+  {
+    "id": 26335,
+    "name": "Bansi"
+  },
+  {
+    "id": 26336,
+    "name": "Shohratgarh"
+  },
+  {
+    "id": 26337,
+    "name": "Itwa"
+  },
+  {
+    "id": 26338,
+    "name": "Sitapur"
+  },
+  {
+    "id": 26339,
+    "name": "Sitapur"
+  },
+  {
+    "id": 26340,
+    "name": "Biswan"
+  },
+  {
+    "id": 26341,
+    "name": "Laharpur"
+  },
+  {
+    "id": 26342,
+    "name": "Mahmudabad"
+  },
+  {
+    "id": 26343,
+    "name": "Misrikh"
+  },
+  {
+    "id": 26344,
+    "name": "Sidhauli"
+  },
+  {
+    "id": 26345,
+    "name": "Sonbhadra"
+  },
+  {
+    "id": 26346,
+    "name": "Robertsganj"
+  },
+  {
+    "id": 26347,
+    "name": "Dudhi"
+  },
+  {
+    "id": 26348,
+    "name": "Ghorawal"
+  },
+  {
+    "id": 26349,
+    "name": "Sultanpur"
+  },
+  {
+    "id": 26350,
+    "name": "Sultanpur"
+  },
+  {
+    "id": 26351,
+    "name": "Kadipur"
+  },
+  {
+    "id": 26352,
+    "name": "Lambhua"
+  },
+  {
+    "id": 26353,
+    "name": "Baldirai"
+  },
+  {
+    "id": 26354,
+    "name": "Musafirkhana"
+  },
+  {
+    "id": 26355,
+    "name": "Unnao"
+  },
+  {
+    "id": 26356,
+    "name": "Unnao"
+  },
+  {
+    "id": 26357,
+    "name": "Bighapur"
+  },
+  {
+    "id": 26358,
+    "name": "Hasanganj"
+  },
+  {
+    "id": 26359,
+    "name": "Purwa"
+  },
+  {
+    "id": 26360,
+    "name": "Safipur"
+  },
+  {
+    "id": 26361,
+    "name": "Varanasi"
+  },
+  {
+    "id": 26362,
+    "name": "Varanasi"
+  },
+  {
+    "id": 26363,
+    "name": "Pindra"
+  },
+  {
+    "id": 26364,
+    "name": "Rohania"
+  }
+]

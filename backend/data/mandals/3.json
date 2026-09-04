@@ -1,0 +1,114 @@
+[
+  { "id": 3001, "name": "Mushalpur" },
+  { "id": 3002, "name": "Salbari" },
+  { "id": 3003, "name": "Tamulpur" },
+
+  { "id": 3004, "name": "Bajali" },
+  { "id": 3005, "name": "Barpeta" },
+  { "id": 3006, "name": "Kalgachia" },
+  { "id": 3007, "name": "Sarukhetri" },
+  { "id": 3008, "name": "Sorbhog" },
+
+  { "id": 3009, "name": "Biswanath Chariali" },
+  { "id": 3010, "name": "Gohpur" },
+
+  { "id": 3011, "name": "Bilasipara" },
+  { "id": 3012, "name": "Dhubri" },
+  { "id": 3013, "name": "South Salmara" },
+
+  { "id": 3014, "name": "Darrang" },
+  { "id": 3015, "name": "Mangaldoi" },
+
+  { "id": 3016, "name": "Diphu" },
+  { "id": 3017, "name": "Bokajan" },
+  { "id": 3018, "name": "Howraghat" },
+
+  { "id": 3019, "name": "Goalpara" },
+  { "id": 3020, "name": "Lakhipur" },
+
+  { "id": 3021, "name": "Golaghat" },
+  { "id": 3022, "name": "Bokakhat" },
+  { "id": 3023, "name": "Dergaon" },
+
+  { "id": 3024, "name": "Guwahati" },
+  { "id": 3025, "name": "Dispur" },
+
+  { "id": 3026, "name": "Hailakandi" },
+  { "id": 3027, "name": "Lala" },
+  { "id": 3028, "name": "Algapur" },
+
+  { "id": 3029, "name": "Hojai" },
+  { "id": 3030, "name": "Doboka" },
+
+  { "id": 3031, "name": "Jorhat" },
+  { "id": 3032, "name": "Titabor" },
+  { "id": 3033, "name": "Mariani" },
+
+  { "id": 3034, "name": "Karimganj" },
+  { "id": 3035, "name": "Badarpur" },
+  { "id": 3036, "name": "Ramkrishna Nagar" },
+
+  { "id": 3037, "name": "Kokrajhar" },
+  { "id": 3038, "name": "Gossaigaon" },
+  { "id": 3039, "name": "Parbatjhora" },
+
+  { "id": 3040, "name": "Lakhimpur" },
+  { "id": 3041, "name": "Dhakuakhana" },
+  { "id": 3042, "name": "Bihpuria" },
+
+  { "id": 3043, "name": "Majuli" },
+
+  { "id": 3044, "name": "Morigaon" },
+  { "id": 3045, "name": "Jagiroad" },
+
+  { "id": 3046, "name": "Nagaon" },
+  { "id": 3047, "name": "Kaliabor" },
+  { "id": 3048, "name": "Hojai" },
+
+  { "id": 3049, "name": "Nalbari" },
+  { "id": 3050, "name": "Tihu" },
+
+  { "id": 3051, "name": "Sivasagar" },
+  { "id": 3052, "name": "Nazira" },
+  { "id": 3053, "name": "Sonari" },
+
+  { "id": 3054, "name": "Sonitpur" },
+  { "id": 3055, "name": "Tezpur" },
+  { "id": 3056, "name": "Gohpur" },
+
+  { "id": 3057, "name": "South Kamrup" },
+  { "id": 3058, "name": "North Kamrup" },
+
+  { "id": 3059, "name": "Tinsukia" },
+  { "id": 3060, "name": "Margherita" },
+  { "id": 3061, "name": "Doom Dooma" },
+
+  { "id": 3062, "name": "Udalguri" },
+  { "id": 3063, "name": "Tangla" },
+
+  { "id": 3064, "name": "West Karbi Anglong" },
+  { "id": 3065, "name": "Hamren" },
+
+  { "id": 3066, "name": "Dima Hasao" },
+  { "id": 3067, "name": "Haflong" },
+
+  { "id": 3068, "name": "Baksa" },
+  { "id": 3069, "name": "Tamulpur" },
+
+  { "id": 3070, "name": "Charaideo" },
+  { "id": 3071, "name": "Mahmora" },
+
+  { "id": 3072, "name": "South Salmara-Mankachar" },
+
+  { "id": 3073, "name": "Bajali" },
+
+  { "id": 3074, "name": "Tamulpur" },
+
+  { "id": 3075, "name": "Biswanath" },
+
+  { "id": 3076, "name": "Hojai" },
+
+  { "id": 3077, "name": "Majuli" },
+
+  { "id": 3078, "name": "West Karbi Anglong" }
+]

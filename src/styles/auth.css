@@ -1,0 +1,152 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+.auth-container {
+  min-height: 100vh;
+  background: linear-gradient(to bottom right, #b5ffb0, #2efc5e);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.auth-card {
+  width: 100%;
+  max-width: 420px;
+  padding: 30px;
+  text-align: center;
+}
+
+.logo {
+  width: 120px;
+  margin-bottom: 10px;
+}
+
+.title {
+  font-weight: 600;
+}
+
+.subtitle {
+  margin: 10px 0 20px;
+}
+
+.input-box {
+  display: flex;
+  align-items: center;
+  background: white;
+  border-radius: 6px;
+  margin-bottom: 15px;
+  padding: 10px;
+}
+
+.input-box span {
+  margin-right: 10px;
+}
+
+.input-box input {
+  border: none;
+  outline: none;
+  flex: 1;
+}
+
+.show-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: green;
+}
+
+.primary-btn {
+  width: 100%;
+  padding: 10px;
+  background: #9df59d;
+  border: 1px solid green;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.or-text {
+  margin: 10px 0;
+}
+
+.switch-text span {
+  color: green;
+  cursor: pointer;
+}
+
+@media (max-width: 480px) {
+  .auth-card {
+    padding: 20px;
+  }
+}
+.forgot {
+  text-align: right;
+  margin-bottom: 10px;
+}
+
+.forgot span {
+  color: green;
+  cursor: pointer;
+  font-size: 14px;
+}
+.reset-text {
+  font-size: 14px;
+  margin-bottom: 15px;
+}
+
+.secondary-btn {
+  margin-top: 10px;
+  width: 100%;
+  padding: 10px;
+  background: #2ee96b;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.auth-card {
+  width: 100%;
+  max-width: 420px;   /* desktop */
+  padding: 30px;
+  margin: auto;
+}
+
+/* Tablets */
+@media (max-width: 768px) {
+  .auth-card {
+    max-width: 360px;
+    padding: 25px;
+  }
+}
+
+/* Phones */
+@media (max-width: 480px) {
+  .auth-card {
+    max-width: 90%;
+    padding: 20px;
+  }
+
+  .input-box {
+    font-size: 14px;
+  }
+
+  .primary-btn,
+  .secondary-btn {
+    font-size: 14px;
+  }
+}
+
+.header,
+.navbar,
+.tax-header {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  padding: 12px;
+}
+.nav-btn {
+  min-width: 120px;
+  text-align: center;
+}

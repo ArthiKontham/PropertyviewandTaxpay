@@ -1,0 +1,47 @@
+[
+  { "id": 15001, "name": "Imphal West" },
+  { "id": 15002, "name": "Imphal East" },
+  { "id": 15003, "name": "Lamphelpat" },
+  { "id": 15004, "name": "Patsoi" },
+  { "id": 15005, "name": "Wangoi" },
+
+  { "id": 15006, "name": "Sawombung" },
+  { "id": 15007, "name": "Keirao Bitra" },
+  { "id": 15008, "name": "Jiribam" },
+
+  { "id": 15009, "name": "Bishnupur" },
+  { "id": 15010, "name": "Moirang" },
+  { "id": 15011, "name": "Nambol" },
+
+  { "id": 15012, "name": "Thoubal" },
+  { "id": 15013, "name": "Kakching" },
+  { "id": 15014, "name": "Lilong" },
+
+  { "id": 15015, "name": "Chandel" },
+  { "id": 15016, "name": "Chakpikarong" },
+
+  { "id": 15017, "name": "Tengnoupal" },
+  { "id": 15018, "name": "Moreh" },
+
+  { "id": 15019, "name": "Ukhrul" },
+  { "id": 15020, "name": "Kamjong" },
+
+  { "id": 15021, "name": "Senapati" },
+  { "id": 15022, "name": "Kangpokpi" },
+
+  { "id": 15023, "name": "Tamenglong" },
+  { "id": 15024, "name": "Nungba" },
+
+  { "id": 15025, "name": "Noney" },
+
+  { "id": 15026, "name": "Churachandpur" },
+  { "id": 15027, "name": "Singngat" },
+
+  { "id": 15028, "name": "Pherzawl" },
+
+  { "id": 15029, "name": "Kangchup Geljang" },
+  { "id": 15030, "name": "Saikul" },
+
+  { "id": 15031, "name": "Yairipok" },
+  { "id": 15032, "name": "Sugnu" }
+]

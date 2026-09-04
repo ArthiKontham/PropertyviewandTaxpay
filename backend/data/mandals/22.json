@@ -1,0 +1,22 @@
+[
+  { "id": 22001, "name": "Gangtok" },
+  { "id": 22002, "name": "Pakyong" },
+  { "id": 22003, "name": "Rongli" },
+
+  { "id": 22004, "name": "Gyalshing" },
+  { "id": 22005, "name": "Soreng" },
+
+  { "id": 22006, "name": "Namchi" },
+  { "id": 22007, "name": "Ravangla" },
+  { "id": 22008, "name": "Yangang" },
+
+  { "id": 22009, "name": "Mangan" },
+  { "id": 22010, "name": "Chungthang" },
+  { "id": 22011, "name": "Dzongu" },
+  { "id": 22012, "name": "Kabi" },
+
+  { "id": 22013, "name": "Jorethang" },
+  { "id": 22014, "name": "Rhenock" },
+  { "id": 22015, "name": "Singtam" },
+  { "id": 22016, "name": "Yuksom" }
+]

@@ -1,0 +1,16 @@
+[
+  { "id": 1201, "name": "Alappuzha" },
+  { "id": 1202, "name": "Ernakulam" },
+  { "id": 1203, "name": "Idukki" },
+  { "id": 1204, "name": "Kannur" },
+  { "id": 1205, "name": "Kasaragod" },
+  { "id": 1206, "name": "Kollam" },
+  { "id": 1207, "name": "Kottayam" },
+  { "id": 1208, "name": "Kozhikode" },
+  { "id": 1209, "name": "Malappuram" },
+  { "id": 1210, "name": "Palakkad" },
+  { "id": 1211, "name": "Pathanamthitta" },
+  { "id": 1212, "name": "Thiruvananthapuram" },
+  { "id": 1213, "name": "Thrissur" },
+  { "id": 1214, "name": "Wayanad" }
+]
