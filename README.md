@@ -1,8 +1,12 @@
 ## Preview
 
-![Propertyview and Taxpay](pvtp.png)# Getting Started with Create React App
+![Propertyview and Taxpay](pvtp.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Live Demo
+
+🔗 [Propertyviewandpaytx – Live Website](https://propertycheck.vercel.app/)
 
 ## Available Scripts
 
